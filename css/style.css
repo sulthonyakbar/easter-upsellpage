@@ -123,7 +123,7 @@ body {
     rgba(0, 0, 0, 0.3),
     rgba(0, 0, 0, 0.8)
    ),
-    url(../img/desktop-wallpaper-gambar-hitam-a1-z-for-you-android-hitam.jpg);
+    url(../img/annie-spratt-6a3nqQ1YwBw-unsplash.jpg);
   
     background-attachment: fixed;
     background-position: center;
@@ -134,7 +134,11 @@ body {
   .parallax-2 {
     min-height: 100vh;
     background: #fff;
-    background: url(../img/pxfuel.jpg);
+    background: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.8)
+     ),
+     url(../img/pxfuel.jpg);
   
     background-attachment: fixed;
     background-position: center;
@@ -145,3 +149,9 @@ body {
   #header-title {
     font-size: 68px;
   }
+
+  #btn-cancel:hover {
+    background-color: red;
+    color: black;
+  }
+
