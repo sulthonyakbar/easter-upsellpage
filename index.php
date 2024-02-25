@@ -206,7 +206,106 @@
         </div>
     </div>
 
-    <div id="booster3" class="d-flex align-items-center justify-content-center mt-5">
+    <div class="row d-flex align-items-center shadow bg-dark">
+        <div class="col-md-6 me-5 d-flex flex-column">
+            <span class="border border-warning bg-warning poppins-bold fs-6 p-1 px-2 ms-5 text-center rounded-3" style="width: 50%;">
+                EXTENDED BONUS #1
+            </span>
+            <h1 class="ms-5 mt-3 text-light">D.F.Y Coloring Books For Adult & Teen</h1>
+            <h4 class="ms-5 mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
+        </div>
+        <div class="col-md-5 mb-5 mt-5">
+            <img src="img/MockupColoringBook.png" alt="" width="100%">
+        </div>
+    </div>
+
+    <div class="parallax-2">
+        <div class="container pt-5 mb-5">
+            <div class="card shadow rounded-3">
+                <img src="https://via.placeholder.com/400x250" alt="" class="rounded-3">
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow rounded-3 h-100">
+                        <img src="https://via.placeholder.com/400" alt="" class="rounded-3">
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow rounded-5 h-100">
+                        <img src="https://via.placeholder.com/400" alt="" class="rounded-3">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row d-flex align-items-center shadow bg-dark">
+        <div class="col-md-6 me-5 d-flex flex-column">
+            <span class="border border-warning bg-warning poppins-bold fs-6 p-1 px-2 ms-5 text-center rounded-3" style="width: 50%;">
+                EXTENDED BONUS #2
+            </span>
+            <h1 class="ms-5 mt-3 text-light">D.F.Y Coloring Books For Adult & Teen</h1>
+            <h4 class="ms-5 mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
+        </div>
+        <div class="col-md-5 mb-5 mt-5">
+            <img src="img/MockupColoringBook.png" alt="" width="100%">
+        </div>
+    </div>
+
+    <div class="parallax-2">
+        <div class="container pt-5 mb-5">
+            <div class="card shadow rounded-3">
+                <img src="https://via.placeholder.com/400x250" alt="" class="rounded-3">
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow rounded-3 h-100">
+                        <img src="https://via.placeholder.com/400" alt="" class="rounded-3">
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow rounded-5 h-100">
+                        <img src="https://via.placeholder.com/400" alt="" class="rounded-3">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row d-flex align-items-center shadow bg-dark">
+        <div class="col-md-6 me-5 d-flex flex-column">
+            <span class="border border-warning bg-warning poppins-bold fs-6 p-1 px-2 ms-5 text-center rounded-3" style="width: 50%;">
+                EXTENDED BONUS #3
+            </span>
+            <h1 class="ms-5 mt-3 text-light">D.F.Y Coloring Books For Adult & Teen</h1>
+            <h4 class="ms-5 mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
+        </div>
+        <div class="col-md-5 mb-5 mt-5">
+            <img src="img/MockupColoringBook.png" alt="" width="100%">
+        </div>
+    </div>
+
+    <div class="parallax-2">
+        <div class="container pt-5 mb-5">
+            <div class="card shadow rounded-3">
+                <img src="https://via.placeholder.com/400x250" alt="" class="rounded-3">
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow rounded-3 h-100">
+                        <img src="https://via.placeholder.com/400" alt="" class="rounded-3">
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow rounded-5 h-100">
+                        <img src="https://via.placeholder.com/400" alt="" class="rounded-3">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="d-flex align-items-center justify-content-center mt-5">
         <span class="border border-warning bg-warning poppins-bold fs-2 text-center text-dark p-5 rounded-pill" style="width: 70%;">
             BOOSTER #3 : Completes Re-Seller Kit
         </span>
@@ -279,7 +378,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                <div class="card border border-0 shadow rounded-5 h-100">
+                    <div class="card border border-0 shadow rounded-5 h-100">
                         <div class="card-body px-5 py-5">
                             <h3 class="card-title text-center">Marketing Graphics</h3>
                             <div class="d-flex align-items-center justify-content-center">
@@ -293,7 +392,7 @@
             </div>
             <div class="row align-items-stretch">
                 <div class="col-md-6 mb-4">
-                <div class="card border border-0 shadow rounded-5 h-100">
+                    <div class="card border border-0 shadow rounded-5 h-100">
                         <div class="card-body px-5 py-5">
                             <h3 class="card-title text-center">Sales Copy</h3>
                             <div class="d-flex align-items-center justify-content-center">
@@ -305,7 +404,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                <div class="card border border-0 shadow rounded-5 h-100">
+                    <div class="card border border-0 shadow rounded-5 h-100">
                         <div class="card-body px-5 py-5">
                             <h3 class="card-title text-center">Email Marketing</h3>
                             <div class="d-flex align-items-center justify-content-center">
@@ -388,48 +487,56 @@
 
             <div class="row">
                 <div class="col-md-6 mb-4">
-                    <div class="card">
-                        <div class="card-body p-3">
+                    <div class="card h-100">
+                        <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-smile-wink fa-5x text-warning"></i>
                             </div>
-                            <h5 class="card-title text-center mt-3">Card 1</h5>
-                            <p class="card-text text-center mt-3">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title text-center mt-3">EXCLUSIVE OFFER FOR NEW CUSTOMERS</h5>
+                            <p class="card-text text-center mt-3">All contents inside the 'EXTENDED Pack' are exclusive for new customer who already purchase the Regular version.
+                                So you can expect super UNIQUE & FRESH contents that make your videos marketing to be unique and always stand out from the crowd
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card">
-                        <div class="card-body p-3">
+                    <div class="card h-100">
+                        <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-smile-wink fa-5x text-warning"></i>
                             </div>
-                            <h5 class="card-title text-center mt-3">Card 1</h5>
-                            <p class="card-text text-center mt-3">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title text-center mt-3">MAKE MORE MONEY WITH THE "UN-RESTRICTED" PLR LICENSE</h5>
+                            <p class="card-text text-center mt-3">All contents inside the 'EXTENDED Pack' are exclusive for new customer who already purchase the Regular version.
+                                So you can expect super UNIQUE & FRESH contents that make your videos marketing to be unique and always stand out from the crowd
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6 mb-4">
-                    <div class="card">
-                        <div class="card-body p-3">
+                    <div class="card h-100">
+                        <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-smile-wink fa-5x text-warning"></i>
                             </div>
-                            <h5 class="card-title text-center mt-3">Card 1</h5>
-                            <p class="card-text text-center mt-3">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title text-center mt-3">MORE TEMPLATES... BIGGER COLLECTION</h5>
+                            <p class="card-text text-center mt-3">All contents inside the 'EXTENDED Pack' are exclusive for new customer who already purchase the Regular version.
+                                So you can expect super UNIQUE & FRESH contents that make your videos marketing to be unique and always stand out from the crowd
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card">
-                        <div class="card-body p-3">
+                    <div class="card h-100">
+                        <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-smile-wink fa-5x text-warning"></i>
                             </div>
-                            <h5 class="card-title text-center mt-3">Card 1</h5>
-                            <p class="card-text text-center mt-3">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title text-center mt-3">SAVE MONEY, EFFORT, AND YOUR FRUSTRATION.</h5>
+                            <p class="card-text text-center mt-3">All contents inside the 'EXTENDED Pack' are exclusive for new customer who already purchase the Regular version.
+                                So you can expect super UNIQUE & FRESH contents that make your videos marketing to be unique and always stand out from the crowd
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -444,33 +551,41 @@
             <div class="row">
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Card 1</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div class="card-body p-3">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                            </div>
+                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Card 2</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div class="card-body p-3">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                            </div>
+                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Card 3</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div class="card-body p-3">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                            </div>
+                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Card 4</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div class="card-body p-3">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                            </div>
+                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
                         </div>
                     </div>
                 </div>
@@ -478,33 +593,41 @@
             <div class="row">
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Card 5</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div class="card-body p-3">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                            </div>
+                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Card 6</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div class="card-body p-3">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                            </div>
+                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Card 7</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div class="card-body p-3">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                            </div>
+                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
                     <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Card 8</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div class="card-body p-3">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                            </div>
+                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
                         </div>
                     </div>
                 </div>
