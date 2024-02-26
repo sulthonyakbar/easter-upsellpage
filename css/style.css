@@ -121,9 +121,9 @@ body {
     background: #000;
     background: linear-gradient(
     rgba(0, 0, 0, 0.3),
-    rgba(0, 0, 0, 0.8)
-   ),
-    url(../img/annie-spratt-6a3nqQ1YwBw-unsplash.jpg);
+    rgba(0, 0, 0, 0.6)
+    ),
+    url(../img/pattern_japanese-pattern-3_1_2_0-0_0_1__050505_10100e.png);
   
     background-attachment: fixed;
     background-position: center;
@@ -138,7 +138,7 @@ body {
       rgba(255, 255, 255, 0.5),
       rgba(255, 255, 255, 0.8)
      ),
-     url(../img/pxfuel.jpg);
+     url(../img/pattern_geometric-7_9_4_0-0_135_2__f4e7e7_dedede_eedbdb.png);
   
     background-attachment: fixed;
     background-position: center;
@@ -146,12 +146,68 @@ body {
     background-size: cover;
   }
 
-  #header-title {
-    font-size: 68px;
+  #btn-tag {
+    background-color: #fbfbfb;
+    color: 332D2D;
+  }
+
+  #btn-tag:hover {
+    background-color: #3B71CA;
+    color: #fbfbfb;
   }
 
   #btn-cancel:hover {
-    background-color: red;
-    color: black;
+    background-color: #DC4C64;
+    color: #fbfbfb;
   }
 
+  #btn-payment {
+    background-color: #E4A11B;
+    color: #fbfbfb;
+    transition: transform 0.5s ease;
+  }
+
+  #btn-payment:hover {
+    background-color: #DC4C64;
+    color: #fbfbfb;
+    transform: translateY(-5px);
+  }
+
+  #btn-buy {
+    transition: transform 0.3s ease-in-out; 
+  }
+
+  #btn-buy:hover {
+    transform: scale(1.1);
+  }
+
+  .ribbon {
+    width: 15%;
+    font-size: 14px;
+    padding: 4px;
+    position: absolute;
+    right: -30px;
+    top: -10px;
+    text-align: center;
+    border-radius: 25px;
+    transform: rotate(30deg);
+    background-color: #ff9800;
+    color: white;
+  }
+
+  .background-card {
+    background: url(../img/pattern_triangles-23_1_4_0-0_10_1__ffffff_edeedd_e0edd9.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+  } 
+
+  @keyframes flash {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  .blinking {
+    animation: flash 0.5s infinite; 
+  }
