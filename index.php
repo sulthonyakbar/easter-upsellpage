@@ -23,7 +23,7 @@
 
     <div class="parallax">
         <div class="container vh-100 d-flex flex-column justify-content-center align-items-center">
-            <h3 id="title-header" class="text-white text-center poppins-bold fst-italic mb-5 py-3">
+            <h3 id="warning-header" class="text-white text-center poppins-bold fst-italic mb-5 py-3">
                 Upgrade To The
                 <span class="text-warning">"EXTENDED Pack"</span>
             </h3>
@@ -50,57 +50,57 @@
 
             <div class="container mt-5">
                 <div class="row mb-3 justify-content-center text-center">
-                    <div class="col-md-8 col-lg-6 col-sm-2 mb-3">
-                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill position-relative" href="#" role="button">
-                            <i class="fas fa-check-circle position-absolute start-0 top-50 translate-middle-y ms-5"></i>
-                            <span style="font-size: 1rem;">BIGGER Content Collection</span>
+                    <div class="col-md-8 col-lg-6 mb-3">
+                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
+                            <i class="fas fa-check-circle me-3"></i>
+                            <span>BIGGER Content Collection</span>
                         </a>
                     </div>
                     <div class="col-md-8 col-lg-6">
-                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill position-relative" href="#" role="button">
-                            <i class="fas fa-check-circle position-absolute start-0 top-50 translate-middle-y ms-5"></i>
+                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
+                            <i class="fas fa-check-circle me-3"></i>
                             <span>BIGGER Content Collection</span>
                         </a>
                     </div>
                 </div>
                 <div class="row mb-3 justify-content-center text-center">
                     <div class="col-md-8 col-lg-6 mb-3">
-                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill position-relative" href="#" role="button">
-                            <i class="fas fa-check-circle position-absolute start-0 top-50 translate-middle-y ms-5"></i>
+                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
+                            <i class="fas fa-check-circle me-3"></i>
                             <span>BIGGER Content Collection</span>
                         </a>
                     </div>
                     <div class="col-md-8 col-lg-6">
-                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill position-relative" href="#" role="button">
-                            <i class="fas fa-check-circle position-absolute start-0 top-50 translate-middle-y ms-5"></i>
+                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
+                            <i class="fas fa-check-circle me-3"></i>
                             <span>BIGGER Content Collection</span>
                         </a>
                     </div>
                 </div>
                 <div class="row mb-3 justify-content-center text-center">
                     <div class="col-md-8 col-lg-6 mb-3">
-                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill position-relative" href="#" role="button">
-                            <i class="fas fa-check-circle position-absolute start-0 top-50 translate-middle-y ms-5"></i>
+                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
+                            <i class="fas fa-check-circle me-3"></i>
                             <span>BIGGER Content Collection</span>
                         </a>
                     </div>
                     <div class="col-md-8 col-lg-6">
-                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill position-relative" href="#" role="button">
-                            <i class="fas fa-check-circle position-absolute start-0 top-50 translate-middle-y ms-5"></i>
+                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
+                            <i class="fas fa-check-circle me-3"></i>
                             <span>BIGGER Content Collection</span>
                         </a>
                     </div>
                 </div>
                 <div class="row mb-3 justify-content-center text-center">
                     <div class="col-md-8 col-lg-6 mb-3">
-                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill position-relative" href="#" role="button">
-                            <i class="fas fa-check-circle position-absolute start-0 top-50 translate-middle-y ms-5"></i>
+                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
+                            <i class="fas fa-check-circle me-3"></i>
                             <span>BIGGER Content Collection</span>
                         </a>
                     </div>
                     <div class="col-md-8 col-lg-6">
-                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill position-relative" href="#" role="button">
-                            <i class="fas fa-check-circle position-absolute start-0 top-50 translate-middle-y ms-5"></i>
+                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
+                            <i class="fas fa-check-circle me-3"></i>
                             <span>BIGGER Content Collection</span>
                         </a>
                     </div>
@@ -108,23 +108,24 @@
             </div>
 
             <div class="d-flex align-items-center justify-content-center">
-                <h1 class="text-center fs-1 mt-5 text-light poppins-bold" style="width: 60%;">Grab Adult Coloring
+                <h1 id="title-buy" class="text-center mt-5 text-light poppins-bold">Grab Adult Coloring
                     <span class="text-warning">"EXTENDED Pack"</span>
                     And Start Make
                     <span class="text-decoration-underline">MORE Money</span>
                     Today!
                 </h1>
             </div>
-            <h3 class="text-center text-light m-5">Receive "Un-Restricted" PLR License To
+
+            <h3 id="caption-buy" class="text-center text-light my-3">Receive "Un-Restricted" PLR License To
                 <span class="text-decoration-underline">FE + Upgrade</span>
                 Pack!
             </h3>
 
-            <div class="container d-flex align-items-center justify-content-center">
-                <a id="btn-payment" class="btn p-3 fw-bold fs-3 p-4 rounded-pill " href="#" role="button" style="width: 60%;">Get Instant Access Now</a>
-            </div>
-            <div class="d-flex align-items-center justify-content-center mt-3 mb-5">
-                <img src="img/30-guarantee.webp" alt="" width="30%;">
+            <div class="container d-flex flex-column align-items-center justify-content-center my-5">
+                <a id="btn-payment" class="btn p-3 fw-bold p-4 rounded-pill mb-3" href="#" role="button">
+                    Get Instant Access Now
+                </a>
+                <img id="guarantee" src="img/30-guarantee.webp" alt="">
             </div>
         </div>
     </div>
@@ -133,71 +134,79 @@
         <div class="container pt-5 mb-5">
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12 me-md-5">
-                    <h5 class="mb-4">As my brand new valuable customer, I’d like to offer you an outrageous 45% discount for the
-                        <span class="poppins-bold">Adult Coloring Books “EXTENDED” Upgrade Pack!.</span>
-                    </h5>
-                    <h5 class="mb-4">
-                        With this EXTENDED upgrade, you can get additional Stunning and Pro-Looking Templates and take your viral marketing to the next level.
-                    </h5>
-                    <h5>
+
+                    <h5 id="content" class="mb-4">As my brand new valuable customer, I’d like to offer you an outrageous 45% discount for the
+                        <span class="poppins-bold">Adult Coloring Books “EXTENDED” Upgrade Pack!.</span><br><br>
+
+                        With this EXTENDED upgrade, you can get additional Stunning and Pro-Looking Templates and take your viral marketing to the next level.<br><br>
+
                         This exclusive upgrade
                         <span class="poppins-bold">consists of 3 key profit boosters:</span>
                     </h5>
-                    <div class="w-100 mt-5">
-                        <i class="fas fa-check-circle" style="color: red; font-size: 1.5rem;"></i>
-                        <span class="poppins-bold ms-3" style="font-size: 1.5rem;">BOOSTER #1 :
-                            <span class="text-warning">"Un-Restricted" PLR License</span>
-                        </span>
+
+                    <div id="content-point" class="d-flex align-items-center">
+                        <i class="fas fa-check-circle me-3"></i>
+                        <span class="poppins-bold">BOOSTER #3 :
+                            <span class="text-warning ms-2">Completes Re-Seller Toolkit</span>
                     </div>
-                    <div class="w-100">
-                        <i class="fas fa-check-circle" style="color: red; font-size: 1.5rem;"></i>
-                        <span class="poppins-bold ms-3" style="font-size: 1.5rem;">BOOSTER #2 :
-                            <span class="text-warning">Extra Coloring Page Designs</span>
-                        </span>
+                    <div id="content-point" class="d-flex align-items-center">
+                        <i class="fas fa-check-circle me-3"></i>
+                        <span class="poppins-bold">BOOSTER #3 :
+                            <span class="text-warning ms-2">Completes Re-Seller Toolkit</span>
                     </div>
-                    <div class="w-100">
-                        <i class="fas fa-check-circle" style="color: red; font-size: 1.5rem;"></i>
-                        <span class="poppins-bold ms-3" style="font-size: 1.5rem;">BOOSTER #3 :
-                            <span class="text-warning">Completes Re-Seller Toolkit</span>
-                        </span>
+                    <div id="content-point" class="d-flex align-items-center">
+                        <i class="fas fa-check-circle me-3"></i>
+                        <span class="poppins-bold">BOOSTER #3 :
+                            <span class="text-warning ms-2">Completes Re-Seller Toolkit</span>
                     </div>
                 </div>
+
                 <div class="col-lg-5 col-md-6 col-sm-12">
                     <img src="img/MockupColoringBook2.png" alt="" width="100%">
                 </div>
+
             </div>
 
-            <h4 class="text-center mt-5">This Outrageous Offer May Changed Any Time</h4>
-            <h2 class="text-center poppins-bold">Please... Pay Very Close ATTENTION!</h2>
-            <h4 class="text-center mt-5">Let’s Go Through Each One. You’ll Be Blown Away!</h4>
+            <h3 id="content-caption" class="text-center mt-5 pb-5">
+                This Outrageous Offer May Changed Any Time<br>
+                <span class="text-center poppins-bold">Please... Pay Very Close ATTENTION!</span><br><br>
+                Let’s Go Through Each One. You’ll Be Blown Away!
+            </h3>
+
         </div>
     </div>
 
     <div class="container d-flex flex-column align-items-center justify-content-center mt-5">
-        <span class="border border-warning bg-warning poppins-bold text-center text-dark p-5 rounded-pill" style="width: 60vw; font-size: 1.5rem;">
+
+        <div id="title-booster" class="border border-warning bg-warning poppins-bold text-center text-dark p-3 rounded-pill">
             BOOSTER #1 : "Un-Restricted" PLR License
-        </span>
-        <h4 class="text-center poppins-bold my-5" style="font-size: 150%;">"Un-Restricted" PLR License</h4>
-        <div class="row mt-5 d-flex align-items-center">
+        </div>
+
+        <h4 id="content-caption" class="text-center poppins-bold my-5">"Un-Restricted" PLR License</h4>
+
+        <div class="row mt-3 d-flex align-items-center">
             <div class="col-md-5 mb-5">
                 <img src="img/MockupColoringBook.png" alt="" width="100%">
             </div>
             <div class="col-md-6 me-5">
-                <h5>This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.</h5>
-                <h5>You can Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</h5>
+                <h5 id="content">This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.<br><br>
+                    You can Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</h5>
             </div>
         </div>
     </div>
 
     <div class="container d-flex flex-column align-items-center justify-content-center mt-5">
-        <span class="border border-warning bg-warning poppins-bold text-center text-dark p-5 rounded-pill" style="width: 60vw; font-size: 1.5rem;">
+
+        <div id="title-booster" class="border border-warning bg-warning poppins-bold text-center text-dark p-3 rounded-pill">
             BOOSTER #2 : Extra Creative Quotes Designs
-        </span>
-        <h4 class="text-center poppins-bold my-5" style="font-size: 150%;">690+ Extra Coloring Pages</h4>
-        <div class="row mt-5 d-flex align-items-center">
+        </div>
+
+        <h4 id="content-caption" class="text-center poppins-bold my-5">690+ Extra Coloring Pages</h4>
+
+        <div class="row mt-3 d-flex align-items-center">
             <div class="col-md-6 me-5">
-                <h5>This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.</h5>
-                <h5>You can Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</h5>
+                <h5 id="content">This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.<br><br>
+                    You can Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</h5>
             </div>
             <div class="col-md-5 mb-5">
                 <img src="img/MockupColoringBook.png" alt="" width="100%">
@@ -206,38 +215,44 @@
     </div>
 
     <div class="parallax-2">
-        <div class="container mb-5 p-5">
-            <h3 class="text-center mt-5" style="font-size: 150%;">This Is
-                <span class="poppins-bold">100% DIFFERENT</span>
+        <div class="container mb-3 p-5">
+
+            <h3 class="text-center mt-3">This Is
+                <span class="poppins-bold text-decoration-underline">100% DIFFERENT</span>
                 From The Previous Package It's
                 <span class="poppins-bold">A BIGGER And More Varied</span>
                 Collection Of Designs
             </h3>
+
             <div class="row justify-content-center mt-5 text-center">
-                <div class="col-md-6 mb-5 mb-md-0">
-                    <span class="border border-danger border-5 fw-bold fst-italic text-center text-danger p-3 rounded-pill" style="font-size: 1.5rem;">15 Different Categories!</span>
+                <div class="col-md-6 mb-3 mb-md-0">
+                    <div id="tag" class="border border-danger border-5 fw-bold fst-italic text-center text-danger p-3 rounded-pill">
+                        15 Different Categories!
+                    </div>
                 </div>
                 <div class="col-md-6">
-                    <span class="border border-danger border-5 fw-bold fst-italic text-center text-danger p-3 rounded-pill" style="font-size: 1.5rem;">690+ Creative Designs!</span>
+                    <div id="tag" class="border border-danger border-5 fw-bold fst-italic text-center text-danger p-3 rounded-pill">
+                        690+ Creative Designs!
+                    </div>
                 </div>
             </div>
 
-            <h4 class="text-center poppins-bold mt-5" style="font-size: 150%;">Let Me Show You What You'll Get Inside This Special "EXTENDED" Business Pack!</h4>
+            <h4 class="text-center poppins-bold mt-5">Let Me Show You What You'll Get Inside This Special "EXTENDED" Business Pack!</h4>
         </div>
         <div class="d-flex align-item-center justify-content-center">
-            <a href="#booster3" class="link-dark"><i class="fas fa-arrow-circle-down fs-1"></i></a>
+            <a href="#booster3" class="link-dark"><i class="fas fa-arrow-circle-down fs-1 mb-5"></i></a>
         </div>
     </div>
 
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div class="col-md-6 me-5 d-flex flex-column">
-                    <span class="border border-warning bg-warning poppins-bold fs-6 p-1 px-2 ms-5 text-center rounded-3" style="width: 50%;">
+                <div id="extended-bonus" class="col-md-6 d-flex flex-column">
+                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
                         EXTENDED BONUS #1
                     </span>
-                    <h1 class="ms-5 mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
-                    <h4 class="ms-5 mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
+                    <h1 class="mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
+                    <h5 class="mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h5>
                 </div>
                 <div class="col-md-5 mb-5 mt-5">
                     <img src="img/MockupColoringBook.png" alt="" width="100%">
@@ -281,12 +296,12 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div class="col-md-6 me-5 d-flex flex-column">
-                    <span class="border border-warning bg-warning poppins-bold fs-6 p-1 px-2 ms-5 text-center rounded-3" style="width: 50%;">
+                <div id="extended-bonus" class="col-md-6 d-flex flex-column">
+                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
                         EXTENDED BONUS #2
                     </span>
-                    <h1 class="ms-5 mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
-                    <h4 class="ms-5 mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
+                    <h1 class="mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
+                    <h4 class="mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
                 </div>
                 <div class="col-md-5 mb-5 mt-5">
                     <img src="img/MockupColoringBook.png" alt="" width="100%">
@@ -318,18 +333,18 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div class="col-md-6 me-5 d-flex flex-column">
-                    <span class="border border-warning bg-warning poppins-bold fs-6 p-1 px-2 ms-5 text-center rounded-3" style="width: 50%;">
+                < <div id="extended-bonus" class="col-md-6 d-flex flex-column">
+                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
                         EXTENDED BONUS #3
                     </span>
-                    <h1 class="ms-5 mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
-                    <h4 class="ms-5 mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
-                </div>
-                <div class="col-md-5 mb-5 mt-5">
-                    <img src="img/MockupColoringBook.png" alt="" width="100%">
-                </div>
+                    <h1 class="mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
+                    <h4 class="mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
+            </div>
+            <div class="col-md-5 mb-5 mt-5">
+                <img src="img/MockupColoringBook.png" alt="" width="100%">
             </div>
         </div>
+    </div>
     </div>
 
     <div class="parallax-2">
@@ -364,27 +379,29 @@
         </div>
     </div>
 
-    <div class="d-flex align-items-center justify-content-center mt-5">
-        <span class="border border-warning bg-warning poppins-bold text-center text-dark p-5 rounded-pill" style="width: 60vw; font-size: 1.5rem;">
+    <div class="container d-flex align-items-center justify-content-center mt-5">
+        <div id="title-booster" class="border border-warning bg-warning poppins-bold text-center text-dark p-3 rounded-pill">
             BOOSTER #3 : Completes Re-Seller Kit
-        </span>
+        </div>
     </div>
 
-    <div class="p-5 mt-5 bg-dark">
-        <h2 class="fst-italic text-center text-light mb-5 fs-1">Completes Re-Seller Toolkit</h2>
-        <h4 class="text-center text-light mb-5">We are also providing the Required Resellers Module to help you hit the market in No Time. You'll get complete
-            <span class="poppins-bold">sales pages for Main Product & Upsell,</span>
-            and other sale material.
-        </h4>
-        <h4 class="text-center text-light">This Module
-            <span class="text-decoration-underline poppins-bold">ONLY AVAILABLE</span>
-            in this Extended version!!!!
-        </h4>
-        <div class="d-flex align-items-center justify-content-center mt-5">
-            <span class="border border-danger border-5 bg-danger fw-bold fst-italic text-center text-light p-2 rounded-pill me-5" style="width: 60vw; font-size: 1.2rem;">
-                <i class="fas fa-exclamation-circle text-light me-3"></i>
-                This Re-Seller Toolkit Only Offered On This Page!!!
-            </span>
+    <div class="mt-5 py-5 bg-dark">
+        <div class="container">
+            <h2 class="fst-italic text-center text-light mb-5 fs-1">Completes Re-Seller Toolkit</h2>
+            <h4 id="content" class="text-center text-light mb-5">We are also providing the Required Resellers Module to help you hit the market in No Time. You'll get complete
+                <span class="poppins-bold">sales pages for Main Product & Upsell,</span>
+                and other sale material.
+                <br><br>
+                This Module
+                <span class="text-decoration-underline poppins-bold">ONLY AVAILABLE</span>
+                in this Extended version!!!!
+            </h4>
+            <div class="d-flex align-items-center justify-content-center mt-5">
+                <span id="tag-warning" class="border border-danger border-5 bg-danger fw-bold fst-italic text-center text-light px-2 rounded-pill">
+                    <i class="fas fa-exclamation-circle text-light me-3"></i>
+                    This Re-Seller Toolkit Only Offered On This Page!!!
+                </span>
+            </div>
         </div>
     </div>
 
@@ -448,31 +465,32 @@
     </div>
 
     <div class="parallax">
-        <div class="container vh-100 d-flex flex-column justify-content-center align-items-center">
-            <h1 id="header-title" class="text-center text-light mb-4">Access Adult Coloring Book
+        <div class="container d-flex flex-column justify-content-center align-items-center">
+            <h1 id="title-buy" class="text-center text-light mb-4 mt-5">Access Adult Coloring Book
                 <span class="text-warning">"EXTENDED Pack"</span>
                 Now!
             </h1>
 
-            <h4 class="text-light mb-5 text-center">Get
+            <h4 id="caption-buy" class="text-light my-3 text-center">
+                Get
                 <span class="text-warning">"Un-Restricted" PLR License</span>
                 To
                 <span class="text-warning">FE + Upgrade</span>
                 Pack!
             </h4>
 
-            <div class="container d-flex align-items-center justify-content-center">
-                <a id="btn-payment" class="btn p-3 fw-bold fs-3 p-4 rounded-pill" href="#" role="button" style="width: 60%;">Get Instant Access Now</a>
-            </div>
-            <div class="d-flex align-items-center justify-content-center mt-3 mb-5">
-                <img src="img/30-guarantee.webp" alt="" width="70%">
+            <div class="container d-flex flex-column align-items-center justify-content-center my-5">
+                <a id="btn-payment" class="btn p-3 fw-bold p-4 rounded-pill mb-3" href="#" role="button">
+                    Get Instant Access Now
+                </a>
+                <img id="guarantee" src="img/30-guarantee.webp" alt="">
             </div>
         </div>
     </div>
 
     <div class="parallax-2">
         <div class="container d-flex align-items-center justify-content-center pt-5">
-            <h1 class="text-center" style="width: 70%;">Here's Why You Need To Upgrade To The "EXTENDED" Version</h1>
+            <h1 class="text-center">Here's Why You Need To Upgrade To The "EXTENDED" Version</h1>
         </div>
 
         <div class="container pt-5 pb-5">
@@ -536,8 +554,8 @@
     </div>
 
     <div class="parallax">
-        <div class="container pt-5 d-flex flex-column align-items-center justify-content-center">
-            <h1 class="text-light fs-1 mb-5">What You Can Do With This Extended Bundle ?</h1>
+        <div class="container pt-5 d-flex flex-column align-items-center justify-content-center pb-5">
+            <h1 class="text-light text-center fs-1 mb-5">What You Can Do With This Extended Bundle ?</h1>
 
             <div class="row">
                 <div class="col-md-3 mb-4">
@@ -628,15 +646,16 @@
 
     <div class="parallax-2">
         <div class="container pt-5 pb-5 d-flex flex-column align-items-center justify-content-center">
-            <h3><span class="poppins-bold">Grab It Now!!</span> And Enjoy This Exclusive…</h3>
-            <h1 id="header-title" class="text-danger">Useful Bonuses!</h1>
+
+            <h3 id="title-buy" class="text-center"><span class="poppins-bold">Grab It Now!!</span> And Enjoy This Exclusive…</h3>
+            <h1 id="title-buy" class="text-danger">Useful Bonuses!</h1>
 
             <div class="row d-flex align-items-center mt-5 rounded-5 shadow p-3 bg-light">
                 <div class="col-md-5">
                     <img src="img/MockupColoringBook.png" alt="" width="100%">
                 </div>
                 <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
-                    <span class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill" style="width: 50%; font-size: 1rem;">
+                    <span id="tag-warning" class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill mt-3">
                         EXTENDED BONUS #1
                     </span>
                     <h2 class="text-center mt-3" style="font-size: 2rem;">Low Competition Coloring Book Keywords</h2>
@@ -645,7 +664,7 @@
             </div>
             <div class="row d-flex align-items-center mt-5 rounded-5 shadow p-3 bg-light">
                 <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
-                    <span class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill" style="width: 50%; font-size: 1rem;">
+                    <span id="tag-warning" class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill mt-3">
                         EXTENDED BONUS #1
                     </span>
                     <h2 class="text-center mt-3" style="font-size: 2rem;">Low Competition Coloring Book Keywords</h2>
@@ -660,7 +679,7 @@
                     <img src="img/MockupColoringBook.png" alt="" width="100%">
                 </div>
                 <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
-                    <span class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill" style="width: 50%; font-size: 1rem;">
+                    <span id="tag-warning" class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill mt-3">
                         EXTENDED BONUS #1
                     </span>
                     <h2 class="text-center mt-3" style="font-size: 2rem;">Low Competition Coloring Book Keywords</h2>
@@ -669,7 +688,7 @@
             </div>
             <div class="row d-flex align-items-center mt-5 rounded-5 shadow p-3 bg-light">
                 <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
-                    <span class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill" style="width: 50%; font-size: 1rem;">
+                    <span id="tag-warning" class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill mt-3">
                         EXTENDED BONUS #1
                     </span>
                     <h2 class="text-center mt-3" style="font-size: 2rem;">Low Competition Coloring Book Keywords</h2>
@@ -684,12 +703,12 @@
 
     <div class="parallax">
         <div class="container d-flex flex-column align-items-center justify-content-center">
-            <h1 id="header-title" class="text-center text-light mt-5" style="width: 75%;">Grab This D.F.Y & Easy Money Maker Now!</h1>
-            <h2 class="text-light mt-5">Don’t Miss This Out…</h2>
-            <h2 class="text-light">Claim
-                <span class="poppins-bold text-warning" style="font-size: 2.5vw;">45% Discount + “Un-Restricted” PLR License</span>
+            <h1 id="header-title" class="text-center text-light mt-5">Grab This D.F.Y & Easy Money Maker Now!</h1>
+            <h2 class="text-light mt-5 text-center">Don’t Miss This Out…<br>
+                Claim
+                <span class="poppins-bold text-warning">45% Discount + “Un-Restricted” PLR License</span><br>
+                GRAB IT NOW!!
             </h2>
-            <h2 class="text-light poppins-bold">GRAB IT NOW!!</h2>
         </div>
 
         <div class="container mt-5 d-flex flex-column align-items-center justify-content-center">
@@ -772,23 +791,23 @@
                             <a id="btn-buy" class="btn p-3 fw-bold rounded-3 position-relative bg-danger text-white fs-5 mb-3" href="#" role="button" style="width: 100%;">
                                 <i class="fas fa-shopping-cart position-absolute start-0 top-50 translate-middle-y ms-5" style="color: white;"></i>
                                 BUY NOW
-                                <span class="ribbon">HOT</span>
+                                <span id="ribbon">HOT</span>
                             </a>
 
-                            <img src="img/scure-guarantee2.webp" alt="" width="70%">
+                            <img src="img/scure-guarantee2.webp" alt="" width="80%">
                         </div>
                     </div>
                 </div>
             </div>
 
-            <a id="btn-cancel" class="btn btn-dark border-0 p-3 rounded-3 position-relative fw-bold mb-5 mt-5" href="#" role="button" style="width: 20vw; font-size: 1rem;">
+            <a id="btn-cancel" class="btn btn-dark border-0 p-3 rounded-3 position-relative fw-bold mb-5 mt-5" href="#" role="button">
                 NO THANKS!
             </a>
         </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    <script>
+    <!-- <script>
         document.addEventListener('DOMContentLoaded', function() {
             setInterval(function() {
                 var randomName = getRandomName();
@@ -816,7 +835,7 @@
             toastBody.textContent = message;
             toast.show();
         }
-    </script>
+    </script> -->
 </body>
 
 </html>
