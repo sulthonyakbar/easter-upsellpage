@@ -137,7 +137,7 @@
             </h3>
 
             <div class="container d-flex flex-column align-items-center justify-content-center my-5">
-                <a id="btn-payment" class="btn p-3 fw-bold p-4 rounded-pill mb-3" href="#" role="button">
+                <a id="btn-payment" class="btn fw-bold rounded-pill mb-3 p-4" href="#" role="button">
                     Get Instant Access Now
                 </a>
                 <img id="guarantee" src="img/30-guarantee.webp" alt="">
@@ -202,7 +202,7 @@
 
         <div class="row mt-3 d-flex align-items-center">
             <div class="col-md-5 mb-5">
-                <img src="img/PLR-ColoringBook.webp" alt="" width="100%">
+                <img src="img/UN - RESTRI.png" alt="" width="100%">
             </div>
             <div class="col-md-6 me-5">
                 <h5 id="content">This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.<br><br>
@@ -287,7 +287,7 @@
                     <h1 class="mt-3 text-light poppins-bold">SVG Printable Designs for Merchandise</h1>
                     <h4 class="mt-3 text-light">35 Unique SVG Printable Design</h4>
                 </div>
-                <div class="col-md-5 mb-5 mt-5">
+                <div class="col-md-5 mt-3">
                     <img src="img/svg/3.png" alt="" width="100%">
                 </div>
             </div>
@@ -385,7 +385,7 @@
                     <h1 class="mt-3 text-light poppins-bold">Viral Post / Quotes For Feed</h1>
                     <h4 class="mt-3 text-light"> 35 Viral Posts and Quotes</h4>
             </div>
-            <div class="col-md-5 mb-5 mt-5">
+            <div class="col-md-5 mb-5 mt-3">
                 <img src="img/quote/1.png" alt="" width="100%">
             </div>
         </div>
@@ -402,6 +402,12 @@
                 </div>
                 <div class="carousel-item">
                     <img src="img/quote/9.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item active">
+                    <img src="img/quote/1.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item active">
+                    <img src="img/quote/2.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
@@ -487,7 +493,54 @@
 
     <div class="parallax-2">
         <div class="container pt-5 pb-5">
-            <iframe width="100%" height="600px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/bUGPrmyEWTU"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/DMxF66XkRXo"></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/0YqqL-kNqQ8"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/fndbeH_f4pg"></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/gNhmI9HVs4Q"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/exiVADG0QOQ"></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/iuUopCSx8RI"></iframe>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -602,7 +655,7 @@
 
     <div class="parallax-2">
         <div class="container d-flex align-items-center justify-content-center pt-5">
-            <h1 class="text-center">Here's Why You Need To Upgrade To The "EXTENDED" Version</h1>
+            <h1 class="text-center" style="width: 60%;">Here's Why You Need To Upgrade To The "EXTENDED" Version</h1>
         </div>
 
         <div class="container pt-5 pb-5">
@@ -671,7 +724,7 @@
 
     <div class="parallax">
         <div class="container pt-5 d-flex flex-column align-items-center justify-content-center pb-5">
-            <h1 class="text-light text-center fs-1 mb-5">What You Can Do With This Extended Bundle ?</h1>
+            <h1 class="text-light text-center fs-1 mb-5" style="width: 50%;">What You Can Do With This Extended Bundle ?</h1>
 
             <div class="row">
                 <div class="col-md-3 mb-4">
@@ -764,7 +817,7 @@
         <div class="container pt-5 pb-5 d-flex flex-column align-items-center justify-content-center">
 
             <h3 id="title-buy" class="text-center"><span class="poppins-bold">Grab It Now!!</span> And Enjoy This Exclusive…</h3>
-            <h1 id="title-buy" class="text-danger">Useful Bonuses!</h1>
+            <h1 id="title-buy" class="text-danger text-center">Useful Bonuses!</h1>
 
             <div class="row d-flex align-items-center mt-5 rounded-5 shadow p-3 bg-light">
                 <div class="col-md-5">
@@ -843,50 +896,50 @@
                             Un-Restricted PLR​
                         </div>
                         <div class="card-body text-center p-5">
-                            <div class="text-start">
+                            <div id="content-buy" class="text-start">
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="poppins-bold ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="poppins-bold ms-3">
                                         690+ Additional Stunning Coloring Pages
                                     </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="poppins-bold ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="poppins-bold ms-3">
                                         Un-Resricted PLR License for ALL Package
                                     </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="poppins-bold ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="poppins-bold ms-3">
                                         Completes RE-SELLER TOOLKIT
                                     </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="poppins-bold ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="poppins-bold ms-3">
                                         3 Usefull BONUSES
                                     </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="ms-3">
                                         Use in UNLIMITED Video Projects You Own
                                     </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="ms-3">
                                         Use in UNLIMITED Projects for Your Clients </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="ms-3">
                                         You can Re-Edit, Re-Name, Re-Package, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose! </span>
                                 </div>
                                 <div class="w-100 mb-3">
-                                    <i class="fas fa-check-circle text-warning" style="font-size: 1.2rem;"></i>
-                                    <span class="ms-3" style="font-size: 1.2rem;">
+                                    <i class="fas fa-check-circle text-warning"></i>
+                                    <span class="ms-3">
                                         You can sell UNLIMITED copies in any price and any place, then keep all of the money for your self </span>
                                 </div>
                             </div>
