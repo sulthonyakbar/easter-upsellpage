@@ -82,6 +82,10 @@
       font-size: 0.8rem;
       width: 40%;
     }
+
+    #img {
+      width: 120%;
+    }
   }
 
   @media (min-width: 768px) { /*Laptop*/
@@ -156,8 +160,11 @@
       width: 20%;
     }
 
-}
+    #img {
+      width: 100%;
+    }
 
+}
 
   .poppins-thin {
     font-family: "Poppins", sans-serif;
@@ -305,7 +312,8 @@
   }
 
   #btn-tag:hover {
-    background-color: #3B71CA;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);    
     color: #fbfbfb;
   }
 
@@ -334,6 +342,9 @@
     transform: scale(1.1);
   }
 
+  #card-content:hover {
+    border-color: #332D2D;
+  }  
 
   /* .background-card {
     background: url(../img/pattern_triangles-23_1_4_0-0_10_1__ffffff_edeedd_e0edd9.png);

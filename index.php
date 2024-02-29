@@ -28,9 +28,9 @@
                 <span class="text-warning">"EXTENDED Pack"</span>
             </h3>
             <h1 id="title-header" class="text-white text-center poppins-bold px-5">
-                DOUBLE Your Package by Grabing This Fabulous Upgrade Pack with
-                <span class="text-warning text-decoration-underline">"Un-Restricted" PLR License </span>
-                to Make You Able to Double The Profits Without Any Restriction!!
+                Easter Niche Bundle Upgrade: Double Your Package with
+                <span class="text-warning text-decoration-underline">Unrestricted PLR License!</span>
+                Access SVG Designs, Coloring Books, Viral Content, and More to Elevate Your Campaigns!
             </h1>
         </div>
 
@@ -45,10 +45,10 @@
             </div>
 
             <div class="d-flex align-items-center justify-content-center">
-                <img src="img/MockupColoringBook.png" alt="" width="100%;">
+                <img id="img" src="img/upsell 1 cr.png" alt="">
             </div>
 
-            <div class="container mt-5">
+            <div class="container">
                 <div class="row mb-3 justify-content-center text-center">
                     <div class="col-md-8 col-lg-6 mb-3">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
@@ -59,7 +59,7 @@
                     <div class="col-md-8 col-lg-6">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
-                            <span>BIGGER Content Collection</span>
+                            <span>PLR Right For FE + Upgrade Pack</span>
                         </a>
                     </div>
                 </div>
@@ -67,13 +67,13 @@
                     <div class="col-md-8 col-lg-6 mb-3">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
-                            <span>BIGGER Content Collection</span>
+                            <span>Complete Re-Selling Toolkits</span>
                         </a>
                     </div>
                     <div class="col-md-8 col-lg-6">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
-                            <span>BIGGER Content Collection</span>
+                            <span>Unlimited Client Services</span>
                         </a>
                     </div>
                 </div>
@@ -81,13 +81,13 @@
                     <div class="col-md-8 col-lg-6 mb-3">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
-                            <span>BIGGER Content Collection</span>
+                            <span>Editable Design Template</span>
                         </a>
                     </div>
                     <div class="col-md-8 col-lg-6">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
-                            <span>BIGGER Content Collection</span>
+                            <span>Easy To Edit & Customize</span>
                         </a>
                     </div>
                 </div>
@@ -95,22 +95,37 @@
                     <div class="col-md-8 col-lg-6 mb-3">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
-                            <span>BIGGER Content Collection</span>
+                            <span>Get More SVG Design</span>
                         </a>
                     </div>
                     <div class="col-md-8 col-lg-6">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
-                            <span>BIGGER Content Collection</span>
+                            <span>Get more viral posts and quotes</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="row mb-3 justify-content-center text-center">
+                    <div class="col-md-8 col-lg-6 mb-3">
+                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
+                            <i class="fas fa-check-circle me-3"></i>
+                            <span>Get More TikTok videos</span>
+                        </a>
+                    </div>
+                    <div class="col-md-8 col-lg-6">
+                        <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
+                            <i class="fas fa-check-circle me-3"></i>
+                            <span>Get More Pinterest and Story visuals.</span>
                         </a>
                     </div>
                 </div>
             </div>
 
             <div class="d-flex align-items-center justify-content-center">
-                <h1 id="title-buy" class="text-center mt-5 text-light poppins-bold">Grab Adult Coloring
+                <h1 id="title-buy" class="text-center mt-5 text-light poppins-bold">
+                    Grab the
                     <span class="text-warning">"EXTENDED Pack"</span>
-                    And Start Make
+                    Easter Niche Bundle and Start Making
                     <span class="text-decoration-underline">MORE Money</span>
                     Today!
                 </h1>
@@ -135,24 +150,25 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12 me-md-5">
 
-                    <h5 id="content" class="mb-4">As my brand new valuable customer, I’d like to offer you an outrageous 45% discount for the
-                        <span class="poppins-bold">Adult Coloring Books “EXTENDED” Upgrade Pack!.</span><br><br>
-
-                        With this EXTENDED upgrade, you can get additional Stunning and Pro-Looking Templates and take your viral marketing to the next level.<br><br>
-
-                        This exclusive upgrade
-                        <span class="poppins-bold">consists of 3 key profit boosters:</span>
+                    <h5 id="content" class="mb-4">
+                        As a valued new customer, we're excited to offer you an incredible 45% discount on our Easter Niche Bundle "EXTENDED" Upgrade Pack!
+                        </span>
+                        <br><br>
+                        With this extended upgrade, unlock a treasure trove of additional stunning and professional templates, taking your viral marketing to new heights.
+                        <br><br>
+                        Unlock the ultimate Easter Niche Bundle and supercharge your promotions with these
+                        <span class="poppins-bold">five profit-boosting features:</span>
                     </h5>
 
                     <div id="content-point" class="d-flex align-items-center">
                         <i class="fas fa-check-circle me-3"></i>
-                        <span class="poppins-bold">BOOSTER #3 :
-                            <span class="text-warning ms-2">Completes Re-Seller Toolkit</span>
+                        <span class="poppins-bold">BOOSTER #1 :
+                            <span class="text-warning ms-2">"Un-Restricted" PLR License</span>
                     </div>
                     <div id="content-point" class="d-flex align-items-center">
                         <i class="fas fa-check-circle me-3"></i>
-                        <span class="poppins-bold">BOOSTER #3 :
-                            <span class="text-warning ms-2">Completes Re-Seller Toolkit</span>
+                        <span class="poppins-bold">BOOSTER #2 :
+                            <span class="text-warning ms-2">Extra Easter Niche Bundle</span>
                     </div>
                     <div id="content-point" class="d-flex align-items-center">
                         <i class="fas fa-check-circle me-3"></i>
@@ -162,7 +178,7 @@
                 </div>
 
                 <div class="col-lg-5 col-md-6 col-sm-12">
-                    <img src="img/MockupColoringBook2.png" alt="" width="100%">
+                    <img src="img/upsell 1 cr.png" alt="" width="100%">
                 </div>
 
             </div>
@@ -186,11 +202,19 @@
 
         <div class="row mt-3 d-flex align-items-center">
             <div class="col-md-5 mb-5">
-                <img src="img/MockupColoringBook.png" alt="" width="100%">
+                <img src="img/PLR-ColoringBook.webp" alt="" width="100%">
             </div>
             <div class="col-md-6 me-5">
                 <h5 id="content">This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.<br><br>
-                    You can Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</h5>
+                    You can
+                    <span class="poppins-bold">Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</span><br><br>
+
+                    <span class="poppins-bold text-danger">NO LIMITATION..!!</span><br><br>
+                    <span class="poppins-bold">The only limit is just your imagination!!</span><br><br>
+                    Just ONE sale could earn you back your investment and more! <br><br>
+                    We know how lucrative the graphics business is! We’ve carved out a 6 figure annual income, creating premium graphics for our customers! <br>
+                    NOW YOU can put all of our experience to work for you!
+                </h5>
             </div>
         </div>
     </div>
@@ -198,18 +222,26 @@
     <div class="container d-flex flex-column align-items-center justify-content-center mt-5">
 
         <div id="title-booster" class="border border-warning bg-warning poppins-bold text-center text-dark p-3 rounded-pill">
-            BOOSTER #2 : Extra Creative Quotes Designs
+            BOOSTER #2 : Extra Easter Niche Bundle
         </div>
 
-        <h4 id="content-caption" class="text-center poppins-bold my-5">690+ Extra Coloring Pages</h4>
+        <h4 id="content-caption" class="text-center poppins-bold my-5">Extra Easter Niche Bundle</h4>
 
         <div class="row mt-3 d-flex align-items-center">
             <div class="col-md-6 me-5">
-                <h5 id="content">This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.<br><br>
-                    You can Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</h5>
+                <h5 id="content">Upgrade to our
+                    'EXTENDED Pack'
+                    version and unlock a treasure trove of exclusive designs and assets that are
+                    <span class="poppins-bold">100% UNIQUE and DISTINCT</span>
+                    from the Main Package. <br><br>
+                    These exclusive contents are reserved only for our valued new customers who have purchased the Regular version. <br><br>
+                    Expect super
+                    <span class="poppins-bold">UNIQUE & FRESH</span>
+                    content that will make your Easter promotions stand out and captivate your audience like never before!
+                    <br><br>
             </div>
             <div class="col-md-5 mb-5">
-                <img src="img/MockupColoringBook.png" alt="" width="100%">
+                <img src="img/upsell 1 cr.png" alt="" width="100%">
             </div>
         </div>
     </div>
@@ -227,35 +259,85 @@
             <div class="row justify-content-center mt-5 text-center">
                 <div class="col-md-6 mb-3 mb-md-0">
                     <div id="tag" class="border border-danger border-5 fw-bold fst-italic text-center text-danger p-3 rounded-pill">
-                        15 Different Categories!
+                        5 Different Categories!
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div id="tag" class="border border-danger border-5 fw-bold fst-italic text-center text-danger p-3 rounded-pill">
-                        690+ Creative Designs!
+                        35+ Creative Designs!
                     </div>
                 </div>
             </div>
 
             <h4 class="text-center poppins-bold mt-5">Let Me Show You What You'll Get Inside This Special "EXTENDED" Business Pack!</h4>
         </div>
+
         <div class="d-flex align-item-center justify-content-center">
-            <a href="#booster3" class="link-dark"><i class="fas fa-arrow-circle-down fs-1 mb-5"></i></a>
+            <a href="#extended-bonus" class="link-dark"><i class="fas fa-arrow-circle-down fs-1 mb-5"></i></a>
         </div>
     </div>
 
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div id="extended-bonus" class="col-md-6 d-flex flex-column">
+                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
                     <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
                         EXTENDED BONUS #1
                     </span>
-                    <h1 class="mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
-                    <h5 class="mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h5>
+                    <h1 class="mt-3 text-light poppins-bold">SVG Printable Designs for Merchandise</h1>
+                    <h4 class="mt-3 text-light">35 Unique SVG Printable Design</h4>
                 </div>
                 <div class="col-md-5 mb-5 mt-5">
-                    <img src="img/MockupColoringBook.png" alt="" width="100%">
+                    <img src="img/svg/3.png" alt="" width="100%">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="parallax-2">
+        <div class="container pt-5 pb-5">
+            <div class="row align-items-stretch mt-4">
+                <?php
+                function displayImagesSVG($directory)
+                {
+                    $count = 0;
+                    if ($handle = opendir($directory)) {
+                        while (false !== ($file = readdir($handle))) {
+                            $extension = strtolower(pathinfo($file, PATHINFO_EXTENSION));
+                            if ($extension == 'jpg' || $extension == 'jpeg' || $extension == 'png' || $extension == 'gif') {
+                                if ($count < 12) {
+                                    echo '<div class="col-md-4 mb-4">';
+                                    echo '<div class="card border-0 bg-transparent h-100">';
+                                    echo '<img src="' . $directory . '/' . $file . '" alt="' . $file . '" class="rounded-3">';
+                                    echo '</div>';
+                                    echo '</div>';
+                                    $count++;
+                                } else {
+                                    break;
+                                }
+                            }
+                        }
+                        closedir($handle);
+                    }
+                }
+                displayImagesSVG('img/svg');
+                ?>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-dark">
+        <div class="container">
+            <div class="row d-flex align-items-center">
+                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
+                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
+                        EXTENDED BONUS #2
+                    </span>
+                    <h1 class="mt-3 text-light poppins-bold">Coloring Book Bundle for Kids with Cover Books</h1>
+                    <h4 class="mt-3 text-light">35 Set Of Ready To Publish Coloring Books</h4>
+                </div>
+                <div class="col-md-5 mb-5 mt-5">
+                    <img src="img/coloring-book/3.png" alt="" width="100%">
                 </div>
             </div>
         </div>
@@ -272,8 +354,8 @@
                         while (false !== ($file = readdir($handle))) {
                             $extension = strtolower(pathinfo($file, PATHINFO_EXTENSION));
                             if ($extension == 'jpg' || $extension == 'jpeg' || $extension == 'png' || $extension == 'gif') {
-                                if ($count < 14) {
-                                    echo '<div class="col-md-12 mb-4">';
+                                if ($count < 12) {
+                                    echo '<div class="col-md-6 mb-4">';
                                     echo '<div class="card shadow-sm border-0 rounded-3 h-100">';
                                     echo '<img src="' . $directory . '/' . $file . '" alt="' . $file . '" class="rounded-3">';
                                     echo '</div>';
@@ -296,86 +378,116 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div id="extended-bonus" class="col-md-6 d-flex flex-column">
+                < <div id="extended-bonus" class="col-md-6 d-flex flex-column">
                     <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
-                        EXTENDED BONUS #2
+                        EXTENDED BONUS #3
                     </span>
-                    <h1 class="mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
-                    <h4 class="mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
-                </div>
-                <div class="col-md-5 mb-5 mt-5">
-                    <img src="img/MockupColoringBook.png" alt="" width="100%">
-                </div>
+                    <h1 class="mt-3 text-light poppins-bold">Viral Post / Quotes For Feed</h1>
+                    <h4 class="mt-3 text-light"> 35 Viral Posts and Quotes</h4>
+            </div>
+            <div class="col-md-5 mb-5 mt-5">
+                <img src="img/quote/1.png" alt="" width="100%">
             </div>
         </div>
     </div>
 
-    <div class="parallax-2">
-        <div class="container pt-5 mb-5">
-            <div class="card shadow rounded-3">
-                <img src="https://via.placeholder.com/400x250" alt="" class="rounded-3">
-            </div>
-            <div class="row align-items-stretch mt-4">
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow rounded-3 h-100">
-                        <img src="https://via.placeholder.com/400" alt="" class="rounded-3">
-                    </div>
+    <div class="parallax-2 d-flex justify-content-center">
+        <div id="carouselExampleAutoplaying" class="carousel carousel-dark slide my-5" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="img/quote/7.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
                 </div>
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow rounded-5 h-100">
-                        <img src="https://via.placeholder.com/400" alt="" class="rounded-3">
-                    </div>
+                <div class="carousel-item">
+                    <img src="img/quote/8.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/quote/9.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
                 </div>
             </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
         </div>
     </div>
 
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                < <div id="extended-bonus" class="col-md-6 d-flex flex-column">
+                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
                     <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
-                        EXTENDED BONUS #3
+                        EXTENDED BONUS #4
                     </span>
-                    <h1 class="mt-3 text-light poppins-bold">D.F.Y Coloring Books For Adult & Teen</h1>
-                    <h4 class="mt-3 text-light">15 Set Of Ready To Publish Coloring Books</h4>
-            </div>
-            <div class="col-md-5 mb-5 mt-5">
-                <img src="img/MockupColoringBook.png" alt="" width="100%">
+                    <h1 class="mt-3 text-light poppins-bold">Pinterest / Story Content</h1>
+                    <h4 class="mt-3 text-light">35 Pinterest / Story Content</h4>
+                </div>
+                <div class="col-md-5 mb-5 mt-5">
+                    <img src="img/story/2.png" alt="" width="100%">
+                </div>
             </div>
         </div>
     </div>
+
+    <div class="parallax-2 d-flex justify-content-center">
+        <div id="carouselExampleAutoplaying2" class="carousel carousel-dark slide my-5" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="img/story/2.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/3.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/4.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/6.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/7.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/8.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="img/story/9.png" class="d-block vw-100" style="max-height: 100vh; object-fit: contain;" alt="...">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying2" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying2" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+
+    <div class="bg-dark">
+        <div class="container">
+            <div class="row d-flex align-items-center">
+                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
+                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
+                        EXTENDED BONUS #5
+                    </span>
+                    <h1 class="mt-3 text-light poppins-bold">Viral Videos From TikTok</h1>
+                    <h4 class="mt-3 text-light">35 Viral Videos from TikTok</h4>
+                </div>
+                <div class="col-md-5 mb-5 mt-5">
+                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="parallax-2">
         <div class="container pt-5 pb-5">
-            <div class="row align-items-stretch mt-4">
-                <?php
-                function displayImagesQuote($directory)
-                {
-                    $count = 0;
-                    if ($handle = opendir($directory)) {
-                        while (false !== ($file = readdir($handle))) {
-                            $extension = strtolower(pathinfo($file, PATHINFO_EXTENSION));
-                            if ($extension == 'jpg' || $extension == 'jpeg' || $extension == 'png' || $extension == 'gif') {
-                                if ($count < 15) {
-                                    echo '<div class="col-md-4 mb-4">';
-                                    echo '<div class="card shadow-sm border-0 rounded-3">';
-                                    echo '<img src="' . $directory . '/' . $file . '" alt="' . $file . '" class="rounded-3">';
-                                    echo '</div>';
-                                    echo '</div>';
-                                    $count++;
-                                } else {
-                                    break;
-                                }
-                            }
-                        }
-                        closedir($handle);
-                    }
-                }
-                displayImagesQuote('img/quote');
-                ?>
-            </div>
+            <iframe width="100%" height="600px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
         </div>
     </div>
 
@@ -385,7 +497,7 @@
         </div>
     </div>
 
-    <div class="mt-5 py-5 bg-dark">
+    <div class="py-5 bg-dark">
         <div class="container">
             <h2 class="fst-italic text-center text-light mb-5 fs-1">Completes Re-Seller Toolkit</h2>
             <h4 id="content" class="text-center text-light mb-5">We are also providing the Required Resellers Module to help you hit the market in No Time. You'll get complete
@@ -409,54 +521,54 @@
         <div class="container pt-5 pb-5">
             <div class="row align-items-stretch">
                 <div class="col-md-6 mb-4">
-                    <div class="card border border-0 shadow rounded-5 h-100 bg-light">
+                    <div id="card-content" class="card shadow rounded-5 h-100 bg-light">
                         <div class="background-card">
                             <div class="card-body px-5 py-5">
-                                <h3 class="card-title text-center">Landing Page</h3>
+                                <h3 class="card-title text-center poppins-bold">Landing Page</h3>
                                 <div class="d-flex align-items-center justify-content-center">
                                     <img src="img/outline-man-web-designer-creating-landing-page-1.png" alt="" width="50%">
                                 </div>
-                                <p class="card-text text-center mt-3">We have professionally designed the Sales Pages for you to use them for your sales funnel.
+                                <p class="card-text text-center">We have professionally designed the Sales Pages for you to use them for your sales funnel.
                                     These DFY landing page templates are ready to import and use to improvise your sales.</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card border border-0 shadow rounded-5 h-100 bg-light">
+                    <div id="card-content" class="card shadow rounded-5 h-100 bg-light">
                         <div class="card-body px-5 py-5">
-                            <h3 class="card-title text-center">Marketing Graphics</h3>
+                            <h3 class="card-title text-center poppins-bold">Marketing Graphics</h3>
                             <div class="d-flex align-items-center justify-content-center">
                                 <img src="img/lounge-marketing-analytics-tools-on-laptop.png" alt="" width="50%">
                             </div>
-                            <p class="card-text text-center mt-3">We have professionally designed the Sales Pages for you to use them for your sales funnel.
-                                These DFY landing page templates are ready to import and use to improvise your sales.</p>
+                            <p class="card-text text-center">A complete set of professionally designed graphics for selling the product.
+                                It will include necessary artwork to sell the product, you’ll be able to use these graphics at your own convenience.</p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row align-items-stretch">
                 <div class="col-md-6 mb-4">
-                    <div class="card border border-0 shadow rounded-5 h-100 bg-light">
+                    <div id="card-content" class="card shadow rounded-5 h-100 bg-light">
                         <div class="card-body px-5 py-5">
-                            <h3 class="card-title text-center">Sales Copy</h3>
+                            <h3 class="card-title text-center poppins-bold">Sales Copy</h3>
                             <div class="d-flex align-items-center justify-content-center">
                                 <img src="img/neon-woman-presenting-a-new-product-in-a-video-advertisement.png" alt="" width="50%">
                             </div>
-                            <p class="card-text text-center mt-3">We have professionally designed the Sales Pages for you to use them for your sales funnel.
-                                These DFY landing page templates are ready to import and use to improvise your sales.</p>
+                            <p class="card-text text-center">This professional sales copy can get huge sales rolling in as part of your front-end sales drive.
+                                You do not have to invest your time and energy in hiring professionals or writing on your own.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card border border-0 shadow rounded-5 h-100 bg-light">
+                    <div id="card-content" class="card shadow rounded-5 h-100 bg-light">
                         <div class="card-body px-5 py-5">
-                            <h3 class="card-title text-center">Email Marketing</h3>
+                            <h3 class="card-title text-center poppins-bold">Email Marketing</h3>
                             <div class="d-flex align-items-center justify-content-center">
                                 <img src="img/indigo-email-marketing.png" alt="" width="50%">
                             </div>
-                            <p class="card-text text-center mt-3">We have professionally designed the Sales Pages for you to use them for your sales funnel.
-                                These DFY landing page templates are ready to import and use to improvise your sales.</p>
+                            <p class="card-text text-center">You'll get professionally written email swipes.
+                                From Welcome Email, Promotion Email, Abandoned Cart Email, and Re-engagement Email. Insert it in your autoresponder, set it once... and forget! </p>
                         </div>
                     </div>
                 </div>
@@ -466,7 +578,7 @@
 
     <div class="parallax">
         <div class="container d-flex flex-column justify-content-center align-items-center">
-            <h1 id="title-buy" class="text-center text-light mb-4 mt-5">Access Adult Coloring Book
+            <h1 id="title-buy" class="text-center text-light mb-4 mt-5">Access Easter Niche Bundle
                 <span class="text-warning">"EXTENDED Pack"</span>
                 Now!
             </h1>
@@ -496,27 +608,29 @@
         <div class="container pt-5 pb-5">
             <div class="row">
                 <div class="col-md-6 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
+                    <div id="card-content" class="card h-100 bg-light shadow rounded-5">
                         <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-smile-wink fa-5x text-warning"></i>
                             </div>
-                            <h5 class="card-title text-center mt-3">EXCLUSIVE OFFER FOR NEW CUSTOMERS</h5>
-                            <p class="card-text text-center mt-3">All contents inside the 'EXTENDED Pack' are exclusive for new customer who already purchase the Regular version.
+                            <h5 class="card-title text-center poppins-bold mt-5">EXCLUSIVE OFFER FOR NEW CUSTOMERS</h5>
+                            <p class="card-text text-center mt-3">
+                                All contents inside the 'EXTENDED Pack' are exclusive for new customer who already purchase the Regular version.
                                 So you can expect super UNIQUE & FRESH contents that make your videos marketing to be unique and always stand out from the crowd
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
+                    <div id="card-content" class="card h-100 bg-light shadow rounded-5">
                         <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
-                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                                <i class="fas fa-file-invoice-dollar fa-5x text-warning"></i>
                             </div>
-                            <h5 class="card-title text-center mt-3">MAKE MORE MONEY WITH THE "UN-RESTRICTED" PLR LICENSE</h5>
-                            <p class="card-text text-center mt-3">All contents inside the 'EXTENDED Pack' are exclusive for new customer who already purchase the Regular version.
-                                So you can expect super UNIQUE & FRESH contents that make your videos marketing to be unique and always stand out from the crowd
+                            <h5 class="card-title text-center poppins-bold mt-5">MAKE MORE MONEY WITH THE "UN-RESTRICTED" PLR LICENSE</h5>
+                            <p class="card-text text-center mt-3">
+                                You'll get the Upgraded License for the Main Product (FE), from Commercial to PLR License (if you're bought the Commercial pack before).
+                                Start creating more product or design service for clients using these package and sell it at $97 to $297 a Pop!
                             </p>
                         </div>
                     </div>
@@ -524,27 +638,29 @@
             </div>
             <div class="row">
                 <div class="col-md-6 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
+                    <div id="card-content" class="card h-100 bg-light shadow rounded-5">
                         <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
-                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                                <i class="fas fa-file-archive fa-5x text-warning"></i>
                             </div>
-                            <h5 class="card-title text-center mt-3">MORE TEMPLATES... BIGGER COLLECTION</h5>
-                            <p class="card-text text-center mt-3">All contents inside the 'EXTENDED Pack' are exclusive for new customer who already purchase the Regular version.
-                                So you can expect super UNIQUE & FRESH contents that make your videos marketing to be unique and always stand out from the crowd
+                            <h5 class="card-title text-center poppins-bold mt-5">MORE TEMPLATES... BIGGER COLLECTION</h5>
+                            <p class="card-text text-center mt-3">
+                                Once you upgrade to the 'EXTENDED Pack' version, you'll get more templates and assets that 100% unique and different than the Main Package.
+                                This surely will help you to create even more high quality presentation & videos.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
+                    <div id="card-content" class="card h-100 bg-light shadow rounded-5">
                         <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
-                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                                <i class="fas fa-smile-beam fa-5x text-warning"></i>
                             </div>
-                            <h5 class="card-title text-center mt-3">SAVE MONEY, EFFORT, AND YOUR FRUSTRATION.</h5>
-                            <p class="card-text text-center mt-3">All contents inside the 'EXTENDED Pack' are exclusive for new customer who already purchase the Regular version.
-                                So you can expect super UNIQUE & FRESH contents that make your videos marketing to be unique and always stand out from the crowd
+                            <h5 class="card-title text-center poppins-bold mt-5">SAVE MONEY, EFFORT, AND YOUR FRUSTRATION.</h5>
+                            <p class="card-text text-center mt-3">
+                                We are positively convinced you’ll absolutely love this Upgrade Package just as much as we do.
+                                In fact, if for any reason you’re not completely satisfied, just let us know within 14 days of your purchase….. and we’ll issue a full refund.
                             </p>
                         </div>
                     </div>
@@ -559,84 +675,84 @@
 
             <div class="row">
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
-                        <div class="card-body p-3">
+                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                        <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
-                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                                <i class="fas fa-file fa-4x text-warning"></i>
                             </div>
-                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
+                            <p class="card-text poppins-bold mt-3 text-center">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
-                        <div class="card-body p-3">
+                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                        <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
-                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                                <i class="fas fa-copyright fa-4x text-warning"></i>
                             </div>
-                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
+                            <p class="card-text poppins-bold mt-3 text-center">You can rename it, rebrand it, repackage, or customize it & claim full ownership</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
-                        <div class="card-body p-3">
+                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                        <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
-                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                                <i class="fab fa-sellsy fa-4x text-warning"></i>
                             </div>
-                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
+                            <p class="card-text poppins-bold mt-3 text-center">You can offer it as a main product or as an upsell offer with your existing product.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
-                        <div class="card-body p-3">
+                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                        <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
-                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                                <i class="fas fa-box fa-4x text-warning"></i>
                             </div>
-                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
+                            <p class="card-text poppins-bold mt-3 text-center">Make small bundles of individual product and sell them for pure profit.</p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
-                        <div class="card-body p-3">
+                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                        <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
-                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                                <i class="fas fa-blog fa-4x text-warning"></i>
                             </div>
-                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
+                            <p class="card-text poppins-bold mt-3 text-center">Create your own web store and sell these media assets per item for cheapest price.​</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
-                        <div class="card-body p-3">
+                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                        <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
-                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                                <i class="fas fa-envelope fa-4x text-warning"></i>
                             </div>
-                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
+                            <p class="card-text poppins-bold mt-3 text-center">You can bundle it with your other products you own. Sell them for higher price you want</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
-                        <div class="card-body p-3">
+                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                        <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
-                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                                <i class="fas fa-gift fa-4x text-warning"></i>
                             </div>
-                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
+                            <p class="card-text poppins-bold mt-3 text-center">You can offer it as a bonus to your existing product and make your customers happy.​</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow">
-                        <div class="card-body p-3">
+                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                        <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
-                                <i class="fas fa-smile-wink fa-5x text-warning"></i>
+                                <i class="fas fa-users fa-4x text-warning"></i>
                             </div>
-                            <p class="card-text mt-3">Upgraded License for the Main Product (FE), from Commercial to PLR License</p>
+                            <p class="card-text poppins-bold mt-3 text-center">You can retain paying members by adding this product to your paid membership site.​</p>
                         </div>
                     </div>
                 </div>
@@ -714,9 +830,9 @@
         <div class="container mt-5 d-flex flex-column align-items-center justify-content-center">
             <div class="row mb-5">
                 <div class="col-sm-6 mb-3 mb-sm-0">
-                    <div class="card border-0 h-100 rounded-5">
-                        <div class="card-body">
-                            <img src="img/MockupColoringBook.png" alt="" width="100%">
+                    <div class="card border-0 h-100 rounded-5 bg-transparent">
+                        <div class="card-body d-flex justify-content-center align-items-center">
+                            <img src="img/upsell 1 cr.png" alt="" width="140%">
                         </div>
                     </div>
                 </div>
@@ -775,7 +891,7 @@
                                 </div>
                             </div>
 
-                            <p style="font-size: 0.8rem;" class="mt-5">*You Can Check Complete Rights In The License Document You'll Receive Inside</p>
+                            <p style="font-size: 0.8rem;" class="mt-3">*You Can Check Complete Rights In The License Document You'll Receive Inside</p>
                             <h3 class="poppins-bold mt-5">Get The LOWEST Price Today with Discount!</h3>
 
                             <div class="row mt-3">
