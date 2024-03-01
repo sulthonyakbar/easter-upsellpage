@@ -45,7 +45,7 @@
             </div>
 
             <div class="d-flex align-items-center justify-content-center">
-                <img id="img" src="img/upsell 1 cr.png" alt="">
+                <img id="img" src="img/Upsell 1 crop.png" alt="">
             </div>
 
             <div class="container">
@@ -178,7 +178,7 @@
                 </div>
 
                 <div class="col-lg-5 col-md-6 col-sm-12">
-                    <img src="img/upsell 1 cr.png" alt="" width="100%">
+                    <img src="img/Upsell 1 crop.png" alt="" width="100%">
                 </div>
 
             </div>
@@ -190,63 +190,62 @@
             </h3>
 
         </div>
-    </div>
 
-    <div class="container d-flex flex-column align-items-center justify-content-center mt-5">
 
-        <div id="title-booster" class="border border-warning bg-warning poppins-bold text-center text-dark p-3 rounded-pill">
-            BOOSTER #1 : "Un-Restricted" PLR License
-        </div>
+        <div class="container d-flex flex-column align-items-center justify-content-center mt-5">
 
-        <h4 id="content-caption" class="text-center poppins-bold my-5">"Un-Restricted" PLR License</h4>
-
-        <div class="row mt-3 d-flex align-items-center">
-            <div class="col-md-5 mb-5">
-                <img src="img/UN - RESTRI.png" alt="" width="100%">
+            <div id="title-booster" class="border border-warning bg-warning poppins-bold text-center text-dark p-3 rounded-pill">
+                BOOSTER #1 : "Un-Restricted" PLR License
             </div>
-            <div class="col-md-6 me-5">
-                <h5 id="content">This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.<br><br>
-                    You can
-                    <span class="poppins-bold">Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</span><br><br>
 
-                    <span class="poppins-bold text-danger">NO LIMITATION..!!</span><br><br>
-                    <span class="poppins-bold">The only limit is just your imagination!!</span><br><br>
-                    Just ONE sale could earn you back your investment and more! <br><br>
-                    We know how lucrative the graphics business is! We’ve carved out a 6 figure annual income, creating premium graphics for our customers! <br>
-                    NOW YOU can put all of our experience to work for you!
-                </h5>
-            </div>
-        </div>
-    </div>
+            <h4 id="content-caption" class="text-center poppins-bold my-5">"Un-Restricted" PLR License</h4>
 
-    <div class="container d-flex flex-column align-items-center justify-content-center mt-5">
+            <div class="row mt-3 d-flex align-items-center">
+                <div class="col-md-6 mb-5">
+                    <img src="img/UN - RESTRI.png" alt="" width="100%">
+                </div>
+                <div class="col-md-6">
+                    <h5 id="content">This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.<br><br>
+                        You can
+                        <span class="poppins-bold">Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</span><br><br>
 
-        <div id="title-booster" class="border border-warning bg-warning poppins-bold text-center text-dark p-3 rounded-pill">
-            BOOSTER #2 : Extra Easter Niche Bundle
-        </div>
-
-        <h4 id="content-caption" class="text-center poppins-bold my-5">Extra Easter Niche Bundle</h4>
-
-        <div class="row mt-3 d-flex align-items-center">
-            <div class="col-md-6 me-5">
-                <h5 id="content">Upgrade to our
-                    'EXTENDED Pack'
-                    version and unlock a treasure trove of exclusive designs and assets that are
-                    <span class="poppins-bold">100% UNIQUE and DISTINCT</span>
-                    from the Main Package. <br><br>
-                    These exclusive contents are reserved only for our valued new customers who have purchased the Regular version. <br><br>
-                    Expect super
-                    <span class="poppins-bold">UNIQUE & FRESH</span>
-                    content that will make your Easter promotions stand out and captivate your audience like never before!
-                    <br><br>
-            </div>
-            <div class="col-md-5 mb-5">
-                <img src="img/upsell 1 cr.png" alt="" width="100%">
+                        <span class="poppins-bold text-danger">NO LIMITATION..!!</span><br><br>
+                        <span class="poppins-bold">The only limit is just your imagination!!</span><br><br>
+                        Just ONE sale could earn you back your investment and more! <br><br>
+                        We know how lucrative the graphics business is! We’ve carved out a 6 figure annual income, creating premium graphics for our customers! <br>
+                        NOW YOU can put all of our experience to work for you!
+                    </h5>
+                </div>
             </div>
         </div>
-    </div>
 
-    <div class="parallax-2">
+        <div class="container d-flex flex-column align-items-center justify-content-center mt-5">
+
+            <div id="title-booster" class="border border-warning bg-warning poppins-bold text-center text-dark p-3 rounded-pill">
+                BOOSTER #2 : Extra Easter Niche Bundle
+            </div>
+
+            <h4 id="content-caption" class="text-center poppins-bold my-5">200++ Extra Easter Niche Bundle</h4>
+
+            <div class="row mt-3 d-flex align-items-center">
+                <div class="col-md-6 me-5">
+                    <h5 id="content">Upgrade to our
+                        'EXTENDED Pack'
+                        version and unlock a treasure trove of exclusive designs and assets that are
+                        <span class="poppins-bold">100% UNIQUE and DISTINCT</span>
+                        from the Main Package. <br><br>
+                        These exclusive contents are reserved only for our valued new customers who have purchased the Regular version. <br><br>
+                        Expect super
+                        <span class="poppins-bold">UNIQUE & FRESH</span>
+                        content that will make your Easter promotions stand out and captivate your audience like never before!
+                        <br><br>
+                </div>
+                <div class="col-md-5 mb-5">
+                    <img src="img/Upsell 1 crop.png" alt="" width="100%">
+                </div>
+            </div>
+        </div>
+
         <div class="container mb-3 p-5">
 
             <h3 class="text-center mt-3">This Is
@@ -264,7 +263,7 @@
                 </div>
                 <div class="col-md-6">
                     <div id="tag" class="border border-danger border-5 fw-bold fst-italic text-center text-danger p-3 rounded-pill">
-                        35+ Creative Designs!
+                        200++ Creative Designs!
                     </div>
                 </div>
             </div>
@@ -277,6 +276,23 @@
         </div>
     </div>
 
+    <!-- <div id="bg-dark" class="bg-dark d-flex flex-row">
+        <div class="container d-flex align-items-center justify-content-center">
+            <div class="d-flex align-items-center">
+                <div id="extended-bonus" class="d-flex flex-column">
+                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
+                        EXTENDED BONUS #1
+                    </span>
+                    <h1 class="mt-3 text-light poppins-bold">SVG Printable Designs for Merchandise</h1>
+                    <h4 class="mt-3 text-light">35 Unique SVG Printable Design</h4>
+                </div>
+            </div>
+        </div>
+        <div id="extended-img" class="col-md-4">
+            <img src="img/svg/2.png" alt="" width="100%">
+        </div>
+    </div> -->
+
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
@@ -288,7 +304,7 @@
                     <h4 class="mt-3 text-light">35 Unique SVG Printable Design</h4>
                 </div>
                 <div class="col-md-5 mt-3">
-                    <img src="img/svg/3.png" alt="" width="100%">
+                    <img src="img/svg/2.png" alt="" width="100%">
                 </div>
             </div>
         </div>
@@ -343,55 +359,55 @@
         </div>
     </div>
 
-    <div class="parallax-2">
-        <div class="container pt-5 pb-5">
-            <div class="row align-items-stretch mt-4">
-                <?php
-                function displayImagesColoring($directory)
-                {
-                    $count = 0;
-                    if ($handle = opendir($directory)) {
-                        while (false !== ($file = readdir($handle))) {
-                            $extension = strtolower(pathinfo($file, PATHINFO_EXTENSION));
-                            if ($extension == 'jpg' || $extension == 'jpeg' || $extension == 'png' || $extension == 'gif') {
-                                if ($count < 12) {
-                                    echo '<div class="col-md-6 mb-4">';
-                                    echo '<div class="card shadow-sm border-0 rounded-3 h-100">';
-                                    echo '<img src="' . $directory . '/' . $file . '" alt="' . $file . '" class="rounded-3">';
-                                    echo '</div>';
-                                    echo '</div>';
-                                    $count++;
-                                } else {
-                                    break;
-                                }
+    <div class="container-fluid pt-5 pb-5">
+        <div class="row align-items-stretch mt-4">
+            <?php
+            function displayImagesColoring($directory)
+            {
+                $count = 0;
+                if ($handle = opendir($directory)) {
+                    while (false !== ($file = readdir($handle))) {
+                        $extension = strtolower(pathinfo($file, PATHINFO_EXTENSION));
+                        if ($extension == 'jpg' || $extension == 'jpeg' || $extension == 'png' || $extension == 'gif') {
+                            if ($count < 12) {
+                                echo '<div class="col-md-6 mb-4">';
+                                echo '<div class="card border-0 rounded-3 h-100">';
+                                echo '<img src="' . $directory . '/' . $file . '" alt="' . $file . '" class="rounded-3">';
+                                echo '</div>';
+                                echo '</div>';
+                                $count++;
+                            } else {
+                                break;
                             }
                         }
-                        closedir($handle);
                     }
+                    closedir($handle);
                 }
-                displayImagesColoring('img/coloring-book');
-                ?>
-            </div>
+            }
+            displayImagesColoring('img/coloring-book');
+            ?>
         </div>
     </div>
 
-    <div class="bg-dark">
-        <div class="container">
+    <div class="bg-dark d-flex flex-row">
+        <div class="container d-flex align-items-center justify-content-center">
             <div class="row d-flex align-items-center">
-                < <div id="extended-bonus" class="col-md-6 d-flex flex-column">
+                <div id="extended-bonus" class="d-flex flex-column">
                     <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
                         EXTENDED BONUS #3
                     </span>
                     <h1 class="mt-3 text-light poppins-bold">Viral Post / Quotes For Feed</h1>
-                    <h4 class="mt-3 text-light"> 35 Viral Posts and Quotes</h4>
+                    <h4 class="mt-3 text-light">35 Viral Posts and Quotes</h4>
+                </div>
             </div>
-            <div class="col-md-5 mb-5 mt-3">
-                <img src="img/quote/1.png" alt="" width="100%">
-            </div>
+        </div>
+        <div class="col-md-6">
+            <img src="img/quote/1.png" alt="" width="100%">
         </div>
     </div>
 
-    <div class="parallax-2 d-flex justify-content-center">
+
+    <div class="d-flex justify-content-center bg-white">
         <div id="carouselExampleAutoplaying" class="carousel carousel-dark slide my-5" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -421,24 +437,25 @@
         </div>
     </div>
 
-    <div class="bg-dark">
-        <div class="container">
+    <div class="bg-dark d-flex flex-row">
+        <div class="container d-flex align-items-center justify-content-center">
             <div class="row d-flex align-items-center">
-                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
+                <div id="extended-bonus" class="d-flex flex-column">
                     <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
                         EXTENDED BONUS #4
                     </span>
                     <h1 class="mt-3 text-light poppins-bold">Pinterest / Story Content</h1>
                     <h4 class="mt-3 text-light">35 Pinterest / Story Content</h4>
                 </div>
-                <div class="col-md-5 mb-5 mt-5">
-                    <img src="img/story/2.png" alt="" width="100%">
-                </div>
             </div>
+        </div>
+        <div class="col-md-6">
+            <img src="img/story/2.png" alt="" width="100%">
         </div>
     </div>
 
-    <div class="parallax-2 d-flex justify-content-center">
+
+    <div class="d-flex justify-content-center bg-white">
         <div id="carouselExampleAutoplaying2" class="carousel carousel-dark slide my-5" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -496,48 +513,48 @@
             <div class="row align-items-stretch mt-4">
                 <div class="col-md-6 mb-4">
                     <div class="card shadow-sm border-0 rounded-3 h-100">
-                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
                     <div class="card shadow-sm border-0 rounded-3 h-100">
-                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/bUGPrmyEWTU"></iframe>
-                    </div>
-                </div>
-            </div>
-            <div class="row align-items-stretch mt-4">
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/DMxF66XkRXo"></iframe>
-                    </div>
-                </div>
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/0YqqL-kNqQ8"></iframe>
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/bUGPrmyEWTU"></iframe>
                     </div>
                 </div>
             </div>
             <div class="row align-items-stretch mt-4">
                 <div class="col-md-6 mb-4">
                     <div class="card shadow-sm border-0 rounded-3 h-100">
-                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/fndbeH_f4pg"></iframe>
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/DMxF66XkRXo"></iframe>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
                     <div class="card shadow-sm border-0 rounded-3 h-100">
-                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/gNhmI9HVs4Q"></iframe>
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/0YqqL-kNqQ8"></iframe>
                     </div>
                 </div>
             </div>
             <div class="row align-items-stretch mt-4">
                 <div class="col-md-6 mb-4">
                     <div class="card shadow-sm border-0 rounded-3 h-100">
-                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/exiVADG0QOQ"></iframe>
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/fndbeH_f4pg"></iframe>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
                     <div class="card shadow-sm border-0 rounded-3 h-100">
-                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/iuUopCSx8RI"></iframe>
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/gNhmI9HVs4Q"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/exiVADG0QOQ"></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/iuUopCSx8RI"></iframe>
                     </div>
                 </div>
             </div>
@@ -885,7 +902,7 @@
                 <div class="col-sm-6 mb-3 mb-sm-0">
                     <div class="card border-0 h-100 rounded-5 bg-transparent">
                         <div class="card-body d-flex justify-content-center align-items-center">
-                            <img src="img/upsell 1 cr.png" alt="" width="140%">
+                            <img src="img/Upsell 1 crop.png" alt="" width="140%">
                         </div>
                     </div>
                 </div>
