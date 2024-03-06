@@ -28,9 +28,9 @@
                 <span class="text-warning">"EXTENDED Pack"</span>
             </h3>
             <h1 id="title-header" class="text-white text-center poppins-bold px-5">
-                Easter Niche Bundle Upgrade: Double Your Package with
-                <span class="text-warning text-decoration-underline">Unrestricted PLR License!</span>
-                Access SVG Designs, Coloring Books, Viral Content, and More to Elevate Your Campaigns!
+                DOUBLE Your Package by Grabing This Fabulous Upgrade Pack with 
+                <span class="text-warning text-decoration-underline">"Un-Restricted" PLR License</span>
+                to Make You Able to Double The Profits Without Any Restriction!!
             </h1>
         </div>
 
@@ -49,7 +49,7 @@
             </div>
 
             <div class="container">
-                <div class="row mb-3 justify-content-center text-center">
+                <div class="row mb-3 text-center">
                     <div class="col-md-8 col-lg-6 mb-3">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
@@ -63,7 +63,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="row mb-3 justify-content-center text-center">
+                <div class="row mb-3 text-center">
                     <div class="col-md-8 col-lg-6 mb-3">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
@@ -77,7 +77,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="row mb-3 justify-content-center text-center">
+                <div class="row mb-3 text-center">
                     <div class="col-md-8 col-lg-6 mb-3">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
@@ -91,7 +91,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="row mb-3 justify-content-center text-center">
+                <div class="row mb-3 text-center">
                     <div class="col-md-8 col-lg-6 mb-3">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
@@ -101,21 +101,21 @@
                     <div class="col-md-8 col-lg-6">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
-                            <span>Get more viral posts and quotes</span>
+                            <span>Get More Viral Posts and Quotes</span>
                         </a>
                     </div>
                 </div>
-                <div class="row mb-3 justify-content-center text-center">
+                <div class="row mb-3 text-center">
                     <div class="col-md-8 col-lg-6 mb-3">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
-                            <span>Get More TikTok videos</span>
+                            <span>Get More TikTok Videos</span>
                         </a>
                     </div>
                     <div class="col-md-8 col-lg-6">
                         <a id="btn-tag" class="btn p-3 fw-bold rounded-pill" href="#" role="button">
                             <i class="fas fa-check-circle me-3"></i>
-                            <span>Get More Pinterest and Story visuals.</span>
+                            <span>Get More Pinterest and Story Visuals.</span>
                         </a>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
                 </div>
 
                 <div class="col-lg-5 col-md-6 col-sm-12">
-                    <img src="img/Upsell 1 crop.png" alt="" width="100%">
+                    <img id="img" src="img/Upsell 1 crop.png" alt="">
                 </div>
 
             </div>
@@ -200,11 +200,11 @@
 
             <h4 id="content-caption" class="text-center poppins-bold my-5">"Un-Restricted" PLR License</h4>
 
-            <div class="row mt-3 d-flex align-items-center">
-                <div class="col-md-6 mb-5">
-                    <img src="img/UN - RESTRI.png" alt="" width="100%">
+            <div class="row mt-3 d-flex align-items-center justify-content-center">
+                <div class="col-md-5 mb-5">
+                    <img src="img/UN - RESTRI.png" alt="" width="80%">
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-7">
                     <h5 id="content">This “UN-RESTRICTED” PLR License gives you the ability to do ANYTHING with the design templates.<br><br>
                         You can
                         <span class="poppins-bold">Re-Edit, Re-Name, Re-Pack, Re-Brand, Re-Sell, or even GIVE IT AWAY for any purpose… any price… in any place!</span><br><br>
@@ -241,7 +241,7 @@
                         <br><br>
                 </div>
                 <div class="col-md-5 mb-5">
-                    <img src="img/Upsell 1 crop.png" alt="" width="100%">
+                    <img id="img" src="img/Upsell 1 crop.png" alt="">
                 </div>
             </div>
         </div>
@@ -296,15 +296,15 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
-                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
-                        EXTENDED BONUS #1
+                <div id="extended-bonus1" class="col-md-7 d-flex flex-column">
+                    <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-5">
+                        EXTENDED MODULE #1
                     </span>
                     <h1 class="mt-3 text-light poppins-bold">SVG Printable Designs for Merchandise</h1>
                     <h4 class="mt-3 text-light">35 Unique SVG Printable Design</h4>
                 </div>
-                <div class="col-md-5 mt-3">
-                    <img src="img/svg/2.png" alt="" width="100%">
+                <div class="col-md-5">
+                    <img id="extended-img1" src="img/svg/2.png" alt="" width="100%">
                 </div>
             </div>
         </div>
@@ -346,8 +346,8 @@
         <div class="container">
             <div class="row d-flex align-items-center">
                 <div id="extended-bonus" class="col-md-7 d-flex flex-column">
-                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
-                        EXTENDED BONUS #2
+                    <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3">
+                        EXTENDED MODULE #2
                     </span>
                     <h1 class="mt-3 text-light poppins-bold">Coloring Book Bundle for Kids with Cover Books</h1>
                     <h4 class="mt-3 text-light">35 Set Of Ready To Publish Coloring Books</h4>
@@ -389,7 +389,7 @@
         </div>
     </div>
 
-    <div class="bg-dark d-flex flex-row">
+    <!-- <div class="bg-dark d-flex flex-row">
         <div class="container d-flex align-items-center justify-content-center">
             <div class="row d-flex align-items-center">
                 <div id="extended-bonus" class="d-flex flex-column">
@@ -403,6 +403,23 @@
         </div>
         <div class="col-md-6">
             <img src="img/quote/1.png" alt="" width="100%">
+        </div>
+    </div> -->
+
+    <div id="extended-bg-3" class="bg-dark">
+        <div class="container">
+            <div class="row d-flex align-items-center">
+                <div id="extended-bonus3" class="col-md-7 d-flex flex-column">
+                    <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3">
+                        EXTENDED MODULE #3
+                    </span>
+                    <h1 class="mt-3 text-light poppins-bold">Viral Post / Quotes</h1>
+                    <h4 class="mt-3 text-light">35 Viral Posts and Quotes</h4>
+                </div>
+                <div class="col-md-5 mt-3">
+                    <img id="extended-img3" src="img/quote/1.png" alt="" width="100%">
+                </div>
+            </div>
         </div>
     </div>
 
@@ -437,7 +454,7 @@
         </div>
     </div>
 
-    <div class="bg-dark d-flex flex-row">
+    <!-- <div class="bg-dark d-flex flex-row">
         <div class="container d-flex align-items-center justify-content-center">
             <div class="row d-flex align-items-center">
                 <div id="extended-bonus" class="d-flex flex-column">
@@ -451,6 +468,23 @@
         </div>
         <div class="col-md-6">
             <img src="img/story/2.png" alt="" width="100%">
+        </div>
+    </div> -->
+
+    <div class="bg-dark">
+        <div class="container">
+            <div class="row d-flex align-items-center">
+                <div id="extended-bonus4" class="col-md-7 d-flex flex-column">
+                    <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3">
+                        EXTENDED MODULE #4
+                    </span>
+                    <h1 class="mt-3 text-light poppins-bold">Pinterest / Story Content</h1>
+                    <h4 class="mt-3 text-light">35 Pinterest / Story Content</h4>
+                </div>
+                <div class="col-md-5 mt-3 mb-3">
+                    <img id="extended-img4" src="img/story/2.png" alt="" width="100%">
+                </div>
+            </div>
         </div>
     </div>
 
@@ -494,15 +528,15 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div id="extended-bonus" class="col-md-7 d-flex flex-column">
-                    <span class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3" style="width: 60%;">
-                        EXTENDED BONUS #5
+                <div id="extended-bonus5" class="col-md-7 d-flex flex-column">
+                    <span id="extended-label" class="border border-warning bg-warning poppins-bold p-1 px-2 text-center rounded-3 mt-3">
+                        EXTENDED MODULE #5
                     </span>
-                    <h1 class="mt-3 text-light poppins-bold">Viral Videos From TikTok</h1>
-                    <h4 class="mt-3 text-light">35 Viral Videos from TikTok</h4>
+                    <h1 class="mt-3 text-light poppins-bold">Easter Viral Videos</h1>
+                    <h4 class="mt-3 text-light">35 Easter Viral Videos</h4>
                 </div>
                 <div class="col-md-5 mb-5 mt-5">
-                    <iframe width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
+                    <iframe id="extended-img5" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
                 </div>
             </div>
         </div>
@@ -512,56 +546,56 @@
         <div class="container pt-5 pb-5">
             <div class="row align-items-stretch mt-4">
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/bUGPrmyEWTU"></iframe>
-                    </div>
-                </div>
-            </div>
-            <div class="row align-items-stretch mt-4">
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/DMxF66XkRXo"></iframe>
-                    </div>
-                </div>
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/0YqqL-kNqQ8"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/bUGPrmyEWTU"></iframe>
                     </div>
                 </div>
             </div>
             <div class="row align-items-stretch mt-4">
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/fndbeH_f4pg"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/DMxF66XkRXo"></iframe>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/gNhmI9HVs4Q"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/0YqqL-kNqQ8"></iframe>
                     </div>
                 </div>
             </div>
             <div class="row align-items-stretch mt-4">
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/exiVADG0QOQ"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/fndbeH_f4pg"></iframe>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-3 h-100">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/iuUopCSx8RI"></iframe>
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/gNhmI9HVs4Q"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-stretch mt-4">
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/exiVADG0QOQ"></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card shadow-sm border-0 rounded-5 h-100">
+                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/iuUopCSx8RI"></iframe>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="container d-flex align-items-center justify-content-center mt-5">
+    <div class="container d-flex align-items-center justify-content-center my-5">
         <div id="title-booster" class="border border-warning bg-warning poppins-bold text-center text-dark p-3 rounded-pill">
             BOOSTER #3 : Completes Re-Seller Kit
         </div>
@@ -569,7 +603,7 @@
 
     <div class="py-5 bg-dark">
         <div class="container">
-            <h2 class="fst-italic text-center text-light mb-5 fs-1">Completes Re-Seller Toolkit</h2>
+            <h2 class="fst-italic text-center text-light mb-5 fs-1 poppins-bold">Completes Re-Seller Toolkit</h2>
             <h4 id="content" class="text-center text-light mb-5">We are also providing the Required Resellers Module to help you hit the market in No Time. You'll get complete
                 <span class="poppins-bold">sales pages for Main Product & Upsell,</span>
                 and other sale material.
@@ -591,21 +625,19 @@
         <div class="container pt-5 pb-5">
             <div class="row align-items-stretch">
                 <div class="col-md-6 mb-4">
-                    <div id="card-content" class="card shadow rounded-5 h-100 bg-light">
-                        <div class="background-card">
-                            <div class="card-body px-5 py-5">
-                                <h3 class="card-title text-center poppins-bold">Landing Page</h3>
-                                <div class="d-flex align-items-center justify-content-center">
-                                    <img src="img/outline-man-web-designer-creating-landing-page-1.png" alt="" width="50%">
-                                </div>
-                                <p class="card-text text-center">We have professionally designed the Sales Pages for you to use them for your sales funnel.
-                                    These DFY landing page templates are ready to import and use to improvise your sales.</p>
+                    <div id="card-content" class="card border-0 rounded-5 h-100 bg-light">
+                        <div class="card-body px-5 py-5">
+                            <h3 class="card-title text-center poppins-bold">Landing Page</h3>
+                            <div class="d-flex align-items-center justify-content-center">
+                                <img src="img/outline-man-web-designer-creating-landing-page-1.png" alt="" width="50%">
                             </div>
+                            <p class="card-text text-center">We have professionally designed the Sales Pages for you to use them for your sales funnel.
+                                These DFY landing page templates are ready to import and use to improvise your sales.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div id="card-content" class="card shadow rounded-5 h-100 bg-light">
+                    <div id="card-content" class="card border-0 rounded-5 h-100 bg-light">
                         <div class="card-body px-5 py-5">
                             <h3 class="card-title text-center poppins-bold">Marketing Graphics</h3>
                             <div class="d-flex align-items-center justify-content-center">
@@ -619,7 +651,7 @@
             </div>
             <div class="row align-items-stretch">
                 <div class="col-md-6 mb-4">
-                    <div id="card-content" class="card shadow rounded-5 h-100 bg-light">
+                    <div id="card-content" class="card border-0 rounded-5 h-100 bg-light">
                         <div class="card-body px-5 py-5">
                             <h3 class="card-title text-center poppins-bold">Sales Copy</h3>
                             <div class="d-flex align-items-center justify-content-center">
@@ -631,7 +663,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div id="card-content" class="card shadow rounded-5 h-100 bg-light">
+                    <div id="card-content" class="card border-0 rounded-5 h-100 bg-light">
                         <div class="card-body px-5 py-5">
                             <h3 class="card-title text-center poppins-bold">Email Marketing</h3>
                             <div class="d-flex align-items-center justify-content-center">
@@ -672,13 +704,13 @@
 
     <div class="parallax-2">
         <div class="container d-flex align-items-center justify-content-center pt-5">
-            <h1 class="text-center" style="width: 60%;">Here's Why You Need To Upgrade To The "EXTENDED" Version</h1>
+            <h1 id="title-card" class="text-center">Here's Why You Need To Upgrade To The "EXTENDED" Version</h1>
         </div>
 
         <div class="container pt-5 pb-5">
             <div class="row">
                 <div class="col-md-6 mb-4">
-                    <div id="card-content" class="card h-100 bg-light shadow rounded-5">
+                    <div id="card-content" class="card h-100 bg-light border-0 bg-light rounded-5">
                         <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-smile-wink fa-5x text-warning"></i>
@@ -692,7 +724,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div id="card-content" class="card h-100 bg-light shadow rounded-5">
+                    <div id="card-content" class="card h-100 bg-light border-0 bg-light  rounded-5">
                         <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-file-invoice-dollar fa-5x text-warning"></i>
@@ -708,7 +740,7 @@
             </div>
             <div class="row">
                 <div class="col-md-6 mb-4">
-                    <div id="card-content" class="card h-100 bg-light shadow rounded-5">
+                    <div id="card-content" class="card h-100 bg-light border-0 bg-light  rounded-5">
                         <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-file-archive fa-5x text-warning"></i>
@@ -722,7 +754,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 mb-4">
-                    <div id="card-content" class="card h-100 bg-light shadow rounded-5">
+                    <div id="card-content" class="card h-100 bg-light border-0 bg-light  rounded-5">
                         <div class="card-body p-5">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-smile-beam fa-5x text-warning"></i>
@@ -741,11 +773,11 @@
 
     <div class="parallax">
         <div class="container pt-5 d-flex flex-column align-items-center justify-content-center pb-5">
-            <h1 class="text-light text-center fs-1 mb-5" style="width: 50%;">What You Can Do With This Extended Bundle ?</h1>
+            <h1 id="title-card" class="text-light text-center fs-1 mb-5">What You Can Do With This Extended Bundle ?</h1>
 
             <div class="row">
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                    <div class="card border-0 h-100 bg-light rounded-4">
                         <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-file fa-4x text-warning"></i>
@@ -755,7 +787,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                    <div class="card border-0 h-100 bg-light rounded-4">
                         <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-copyright fa-4x text-warning"></i>
@@ -765,7 +797,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                    <div class="card border-0 h-100 bg-light rounded-4">
                         <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fab fa-sellsy fa-4x text-warning"></i>
@@ -775,7 +807,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                    <div class="card border-0 h-100 bg-light rounded-4">
                         <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-box fa-4x text-warning"></i>
@@ -787,7 +819,7 @@
             </div>
             <div class="row">
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                    <div class="card border-0 h-100 bg-light rounded-4">
                         <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-blog fa-4x text-warning"></i>
@@ -797,7 +829,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                    <div class="card border-0 h-100 bg-light rounded-4">
                         <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-envelope fa-4x text-warning"></i>
@@ -807,7 +839,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                    <div class="card border-0 h-100 bg-light rounded-4">
                         <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-gift fa-4x text-warning"></i>
@@ -817,7 +849,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 mb-4">
-                    <div class="card border-0 h-100 bg-light shadow rounded-4">
+                    <div class="card border-0 h-100 bg-light rounded-4">
                         <div class="card-body p-4">
                             <div class="d-flex align-items-center justify-content-center">
                                 <i class="fas fa-users fa-4x text-warning"></i>
@@ -836,52 +868,56 @@
             <h3 id="title-buy" class="text-center"><span class="poppins-bold">Grab It Now!!</span> And Enjoy This Exclusive…</h3>
             <h1 id="title-buy" class="text-danger text-center">Useful Bonuses!</h1>
 
-            <div class="row d-flex align-items-center mt-5 rounded-5 shadow p-3 bg-light">
-                <div class="col-md-5">
-                    <img src="img/MockupColoringBook.png" alt="" width="100%">
-                </div>
+            <div class="row d-flex align-items-center mt-5 rounded-5 p-3 bg-light">
                 <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
                     <span id="tag-warning" class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill mt-3">
                         EXTENDED BONUS #1
                     </span>
-                    <h2 class="text-center mt-3" style="font-size: 2rem;">Low Competition Coloring Book Keywords</h2>
-                    <p class="text-center mt-3" style="font-size: 1rem;">Uncover the secret to visibility and sales with our exclusive list of low-competition coloring book keywords for Amazon KDP. Elevate your book’s discoverability, ensuring it stands out in a crowded marketplace and reaches the eager eyes of your target audience.</p>
+                    <h2 class="text-center mt-3 poppins-bold" style="font-size: 2rem;">Easter Activity Book Keywords For Amazon KDP</h2>
+                    <p class="text-center mt-3" style="font-size: 1.2rem;">Uncover the secret to visibility and sales with our exclusive list of low-competition
+                        <span class="poppins-bold">EASTER Activity Book</span>
+                        keywords for Amazon KDP. Elevate your book’s discoverability, ensuring it stands out in a crowded marketplace and reaches the eager eyes of your target audience.
+                    </p>
+                </div>
+                <div class="col-md-5">
+                    <img src="img/Box-Bonus-EKAB1.webp" alt="" width="100%">
                 </div>
             </div>
-            <div class="row d-flex align-items-center mt-5 rounded-5 shadow p-3 bg-light">
+            <div class="row d-flex align-items-center mt-5 rounded-5 p-3 bg-light">
+                <div class="col-md-5">
+                    <img src="img/Box-Bonus-EKAB2.png" alt="" width="100%">
+                </div>
                 <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
                     <span id="tag-warning" class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill mt-3">
-                        EXTENDED BONUS #1
+                        EXTENDED BONUS #2
                     </span>
-                    <h2 class="text-center mt-3" style="font-size: 2rem;">Low Competition Coloring Book Keywords</h2>
-                    <p class="text-center mt-3" style="font-size: 1rem;">Uncover the secret to visibility and sales with our exclusive list of low-competition coloring book keywords for Amazon KDP. Elevate your book’s discoverability, ensuring it stands out in a crowded marketplace and reaches the eager eyes of your target audience.</p>
-                </div>
-                <div class="col-md-5">
-                    <img src="img/MockupColoringBook.png" alt="" width="100%">
+                    <h2 class="text-center mt-3 poppins-bold" style="font-size: 2rem;">Easter Activity Book" Etsy Keywords</h2>
+                    <p class="text-center mt-3" style="font-size: 1.2rem;">Ignite your book’s success on Amazon KDP by leveraging our curated list of top-scoring keywords specifically tailored for adult coloring books. Boost your visibility, climb the rankings, and let your masterpiece shine in the spotlight it deserves</p>
                 </div>
             </div>
-            <div class="row d-flex align-items-center mt-5 rounded-5 shadow p-3 bg-light">
-                <div class="col-md-5">
-                    <img src="img/MockupColoringBook.png" alt="" width="100%">
-                </div>
+            <div class="row d-flex align-items-center mt-5 rounded-5 p-3 bg-light">
                 <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
                     <span id="tag-warning" class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill mt-3">
-                        EXTENDED BONUS #1
+                        EXTENDED BONUS #3
                     </span>
-                    <h2 class="text-center mt-3" style="font-size: 2rem;">Low Competition Coloring Book Keywords</h2>
-                    <p class="text-center mt-3" style="font-size: 1rem;">Uncover the secret to visibility and sales with our exclusive list of low-competition coloring book keywords for Amazon KDP. Elevate your book’s discoverability, ensuring it stands out in a crowded marketplace and reaches the eager eyes of your target audience.</p>
+                    <h2 class="text-center mt-3 poppins-bold" style="font-size: 2rem;">Easter Sublimation Bundle</h2>
+                    <p class="text-center mt-3" style="font-size: 1.2rem;">Embark on a motivational journey with our inspirational video series, guiding you through the steps to achieve a thousand dollars a month selling coloring books. Gain insights, motivation, and practical tips from successful artists, turning your passion for coloring into a flourishing source of income.</p>
+                </div>
+                <div class="col-md-5">
+                    <img src="img/Box-Bonus-EKAB3.webp" alt="" width="100%">
                 </div>
             </div>
-            <div class="row d-flex align-items-center mt-5 rounded-5 shadow p-3 bg-light">
+            <div class="row d-flex align-items-center mt-5 rounded-5 p-3 bg-light">
+                <div class="col-md-5">
+                    <img src="img/Box-Bonus-EKAB4.webp" alt="" width="100%">
+                </div>
                 <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
                     <span id="tag-warning" class="border border-danger bg-danger poppins-bold p-1 px-2 text-light text-center rounded-pill mt-3">
-                        EXTENDED BONUS #1
+                        EXTENDED BONUS #4
                     </span>
-                    <h2 class="text-center mt-3" style="font-size: 2rem;">Low Competition Coloring Book Keywords</h2>
-                    <p class="text-center mt-3" style="font-size: 1rem;">Uncover the secret to visibility and sales with our exclusive list of low-competition coloring book keywords for Amazon KDP. Elevate your book’s discoverability, ensuring it stands out in a crowded marketplace and reaches the eager eyes of your target audience.</p>
-                </div>
-                <div class="col-md-5">
-                    <img src="img/MockupColoringBook.png" alt="" width="100%">
+                    <h2 class="text-center mt-3 poppins-bold" style="font-size: 2rem;">Book Display Mockup Templates</h2>
+                    <p class="text-center mt-3" style="font-size: 1.2rem;">Transform your creations into visual wonders with our collection of 50 book display mockup templates. <br>
+                        From virtual shelves to promotional materials, these templates add a touch of professionalism, allowing your art to captivate hearts even before the first stroke is colored.</p>
                 </div>
             </div>
         </div>
@@ -902,7 +938,7 @@
                 <div class="col-sm-6 mb-3 mb-sm-0">
                     <div class="card border-0 h-100 rounded-5 bg-transparent">
                         <div class="card-body d-flex justify-content-center align-items-center">
-                            <img src="img/Upsell 1 crop.png" alt="" width="140%">
+                            <img src="img/REV Upsell 2.png" alt="" width="180%">
                         </div>
                     </div>
                 </div>
