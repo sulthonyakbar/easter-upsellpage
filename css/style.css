@@ -220,7 +220,8 @@
       top: 0;
       right: 0;
       bottom: 0;
-      width: 46%;
+      height: 100%;
+      width: 45%;
     }
 
     #extended-bonus1 {
@@ -236,6 +237,7 @@
       top: 0;
       right: 0;
       bottom: 0;
+      height: 100%;
       width: 50%;
     }
 
@@ -245,10 +247,11 @@
 
     #extended-img4 {
       position: absolute;
-      top: 1;
+      top: 0;
       right: 0;
       bottom: 0;
-      width: 45%;
+      height: 100%;
+      width: 45%;    
     }
 
     #extended-bonus4 {

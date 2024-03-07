@@ -28,7 +28,7 @@
                 <span class="text-warning">"EXTENDED Pack"</span>
             </h3>
             <h1 id="title-header" class="text-white text-center poppins-bold px-5">
-                DOUBLE Your Package by Grabing This Fabulous Upgrade Pack with 
+                DOUBLE Your Package by Grabing This Fabulous Upgrade Pack with
                 <span class="text-warning text-decoration-underline">"Un-Restricted" PLR License</span>
                 to Make You Able to Double The Profits Without Any Restriction!!
             </h1>
@@ -137,7 +137,7 @@
             </h3>
 
             <div class="container d-flex flex-column align-items-center justify-content-center my-5">
-                <a id="btn-payment" class="btn fw-bold rounded-pill mb-3 p-4" href="#" role="button">
+                <a id="btn-payment" class="btn fw-bold rounded-pill mb-3 p-4" href="#payment-section" role="button">
                     Get Instant Access Now
                 </a>
                 <img id="guarantee" src="img/30-guarantee.webp" alt="">
@@ -544,54 +544,32 @@
 
     <div class="parallax-2">
         <div class="container pt-5 pb-5">
-            <div class="row align-items-stretch mt-4">
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-5 h-100">
-                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/sI0Pv0pv1XM"></iframe>
-                    </div>
-                </div>
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-5 h-100">
-                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/bUGPrmyEWTU"></iframe>
-                    </div>
-                </div>
-            </div>
-            <div class="row align-items-stretch mt-4">
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-5 h-100">
-                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/DMxF66XkRXo"></iframe>
-                    </div>
-                </div>
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-5 h-100">
-                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/0YqqL-kNqQ8"></iframe>
-                    </div>
-                </div>
-            </div>
-            <div class="row align-items-stretch mt-4">
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-5 h-100">
-                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/fndbeH_f4pg"></iframe>
-                    </div>
-                </div>
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-5 h-100">
-                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/gNhmI9HVs4Q"></iframe>
-                    </div>
-                </div>
-            </div>
-            <div class="row align-items-stretch mt-4">
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-5 h-100">
-                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/exiVADG0QOQ"></iframe>
-                    </div>
-                </div>
-                <div class="col-md-6 mb-4">
-                    <div class="card shadow-sm border-0 rounded-5 h-100">
-                        <iframe class="rounded-5" width="100%" height="300px" src="https://www.youtube.com/embed/iuUopCSx8RI"></iframe>
-                    </div>
-                </div>
-            </div>
+            <?php
+            $videos = array(
+                "sI0Pv0pv1XM",
+                "bUGPrmyEWTU",
+                "DMxF66XkRXo",
+                "0YqqL-kNqQ8",
+                "fndbeH_f4pg",
+                "gNhmI9HVs4Q",
+                "exiVADG0QOQ",
+                "iuUopCSx8RI"
+            );
+
+            for ($i = 0; $i < count($videos); $i += 2) {
+                echo '<div class="row align-items-stretch mt-4">';
+
+                for ($j = $i; $j < min($i + 2, count($videos)); $j++) {
+                    echo '<div class="col-md-6 mb-4">';
+                    echo '<div class="card shadow-sm border-0 rounded-3 h-100">';
+                    echo '<iframe class="rounded-3" width="100%" height="300px" src="https://www.youtube.com/embed/' . $videos[$j] . '"></iframe>';
+                    echo '</div>';
+                    echo '</div>';
+                }
+
+                echo '</div>';
+            }
+            ?>
         </div>
     </div>
 
@@ -694,7 +672,7 @@
             </h4>
 
             <div class="container d-flex flex-column align-items-center justify-content-center my-5">
-                <a id="btn-payment" class="btn p-3 fw-bold p-4 rounded-pill mb-3" href="#" role="button">
+                <a id="btn-payment" class="btn p-3 fw-bold p-4 rounded-pill mb-3" href="#payment-section" role="button">
                     Get Instant Access Now
                 </a>
                 <img id="guarantee" src="img/30-guarantee.webp" alt="">
@@ -924,7 +902,7 @@
     </div>
 
     <div class="parallax">
-        <div class="container d-flex flex-column align-items-center justify-content-center">
+        <div id="payment-section" class="container d-flex flex-column align-items-center justify-content-center">
             <h1 id="header-title" class="text-center text-light mt-5">Grab This D.F.Y & Easy Money Maker Now!</h1>
             <h2 class="text-light mt-5 text-center">Don’t Miss This Out…<br>
                 Claim
